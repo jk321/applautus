@@ -32,14 +32,14 @@
     {
       "word_number": 2,
       "text": "argument[um]",
-      "syllable_count": 4,
+      "syllable_count": 3,
       "variants": [
         {
           "variant_number": 1,
           "form_scan": "ārgūmēnt[um]",
           "form_accent": "arguméntum",
-          "hyphen_scan": "ār-gū-mēn-t[um]",
-          "hyphen_accent": "ar-gu-mén-tum",
+          "hyphen_scan": "ār-gūmēn-t[um]",
+          "hyphen_accent": "ar-gumén-tum",
           "syllables": [
             {
               "syllable_number": 1,
@@ -52,16 +52,7 @@
             },
             {
               "syllable_number": 2,
-              "text": "gu",
-              "length": true,
-              "accent": false,
-              "penultima": false,
-              "ultima": false,
-              "elision": false
-            },
-            {
-              "syllable_number": 3,
-              "text": "men",
+              "text": "gumen",
               "length": true,
               "accent": true,
               "penultima": true,
@@ -69,7 +60,7 @@
               "elision": false
             },
             {
-              "syllable_number": 4,
+              "syllable_number": 3,
               "text": "t[um]",
               "length": false,
               "accent": false,

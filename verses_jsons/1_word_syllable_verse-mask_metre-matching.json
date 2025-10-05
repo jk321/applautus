@@ -329,6 +329,13 @@
           11,
           14
         ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          9,
+          12
+        ],
         "accent_ictus_intersection": 4
       }
     ]

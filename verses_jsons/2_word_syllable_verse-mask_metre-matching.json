@@ -322,6 +322,13 @@
           11,
           13
         ],
+        "foot_boundary_after": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
         "accent_ictus_intersection": 4
       },
       {
@@ -368,6 +375,13 @@
           9,
           11,
           13
+        ],
+        "foot_boundary_after": [
+          3,
+          5,
+          7,
+          9,
+          11
         ],
         "accent_ictus_intersection": 4
       },
@@ -416,6 +430,13 @@
           11,
           13
         ],
+        "foot_boundary_after": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
         "accent_ictus_intersection": 4
       },
       {
@@ -460,6 +481,13 @@
           8,
           10,
           12
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
         ],
         "accent_ictus_intersection": 4
       },
@@ -506,6 +534,13 @@
           10,
           12
         ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
         "accent_ictus_intersection": 4
       },
       {
@@ -550,6 +585,13 @@
           8,
           10,
           12
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
         ],
         "accent_ictus_intersection": 4
       }
