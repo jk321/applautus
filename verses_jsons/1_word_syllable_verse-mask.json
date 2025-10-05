@@ -1,0 +1,565 @@
+{
+  "verse": "Salutem primum iam a principio propitiam",
+  "collatinus_accentuate": "Salútem primum jam a princípio propítiam",
+  "collatinus_scan": "Sălūtēm (Sā̆lūtēm) prīmūm j[am] ā prīncĭpĭō prŏpĭtĭăm",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Salutem",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Sălūtēm",
+          "form_accent": "Salútem",
+          "hyphen_scan": "Să-lū-tēm",
+          "hyphen_accent": "Sa-lú-tem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Sa",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "Sālūtēm",
+          "form_accent": "Salútem",
+          "hyphen_scan": "Sā-lū-tēm",
+          "hyphen_accent": "Sa-lú-tem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Sa",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "Sălūtēm",
+          "form_accent": "Salútem",
+          "hyphen_scan": "Să-lū-tēm",
+          "hyphen_accent": "Sa-lú-tem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Sa",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "primum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prīmūm",
+          "form_accent": "primum",
+          "hyphen_scan": "prī-mūm",
+          "hyphen_accent": "pri-mum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pri",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "j[am]",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "j[am]",
+          "form_accent": "jam",
+          "hyphen_scan": "j[am]",
+          "hyphen_accent": "jam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "j[am]",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "a",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ā",
+          "form_accent": "a",
+          "hyphen_scan": "ā",
+          "hyphen_accent": "a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "principio",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prīncĭpĭō",
+          "form_accent": "princípio",
+          "hyphen_scan": "prīn-cĭ-pĭ-ō",
+          "hyphen_accent": "prin-cí-pi-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "prin",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "pi",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "o",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "propitiam",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prŏpĭtĭăm",
+          "form_accent": "propítiam",
+          "hyphen_scan": "prŏ-pĭ-tĭ-ăm",
+          "hyphen_accent": "pro-pí-ti-am",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pro",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "pi",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ti",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "am",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 6,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "sllllsllsslssss",
+        "syllable_count": 15,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          13
+        ],
+        "hiatus_after": [
+          6
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "sllllllsslssss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          12
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 3,
+        "prosodic_mask": "lllllsllsslssss",
+        "syllable_count": 15,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          13
+        ],
+        "hiatus_after": [
+          6
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 2
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 4,
+        "prosodic_mask": "lllllllsslssss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          12
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 2
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 5,
+        "prosodic_mask": "sllllsllsslssss",
+        "syllable_count": 15,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          13
+        ],
+        "hiatus_after": [
+          6
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 3
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 6,
+        "prosodic_mask": "sllllllsslssss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          12
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 3
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verse": "quaeso ut benignis accipiatis auribus.",
+  "collatinus_accentuate": "quæso ut benígnis accipiátis áuribus",
+  "collatinus_scan": "quāes[o] ūt bĕnīgnīs āccĭpĭātĭs āurĭbŭs",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "quaes[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quāes[o]",
+          "form_accent": "quæso"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ut",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ūt",
+          "form_accent": "ut"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "benignis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "bĕnīgnīs",
+          "form_accent": "benígnis"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "accipiatis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āccĭpĭātĭs",
+          "form_accent": "accipiátis"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "auribus",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āurĭbŭs",
+          "form_accent": "áuribus"
+        }
+      ]
+    }
+  ]
+}

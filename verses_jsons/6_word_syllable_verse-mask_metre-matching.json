@@ -1,0 +1,328 @@
+{
+  "verse": "quam potero in verba conferam paucissuma.",
+  "collatinus_accentuate": "quam pótero in verba cónferam paucissuma",
+  "collatinus_scan": "quām pŏtĕr[o] īn vērbă cōnfĕrām pāucīssuma",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "quam",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quām",
+          "form_accent": "quam",
+          "hyphen_scan": "quām",
+          "hyphen_accent": "quam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "quam",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "poter[o]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŏtĕr[o]",
+          "form_accent": "pótero",
+          "hyphen_scan": "pŏ-tĕr-[o]",
+          "hyphen_accent": "pó-te-ro",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "po",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[o]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "in",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in",
+          "hyphen_scan": "īn",
+          "hyphen_accent": "in",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "in",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "verba",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vērbă",
+          "form_accent": "verba",
+          "hyphen_scan": "vēr-bă",
+          "hyphen_accent": "ver-ba",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ver",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ba",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "conferam",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōnfĕrām",
+          "form_accent": "cónferam",
+          "hyphen_scan": "cōn-fĕ-rām",
+          "hyphen_accent": "cón-fe-ram",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "con",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "fe",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ram",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "paucissuma",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pāucīssuma",
+          "form_accent": "paucissuma",
+          "hyphen_scan": "pāu-cīs-su-ma",
+          "hyphen_accent": "pau-cis-su-ma",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pau",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "su",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "ma",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 2,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "lsssllslslllss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          1,
+          2,
+          5,
+          6,
+          8,
+          11
+        ],
+        "hiatus_after": [
+          4
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "lssllslslllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          1,
+          2,
+          4,
+          5,
+          7,
+          10
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "accent_ictus_intersection": 3
+      }
+    ]
+  }
+}

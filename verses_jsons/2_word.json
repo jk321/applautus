@@ -1,0 +1,73 @@
+{
+  "verse": "mihi atque vobis, spectatores, nuntio.",
+  "collatinus_accentuate": "mihi atque vobis spectatóres núntio",
+  "collatinus_scan": "mĭh[i] ātquĕ vōbīs spēctātōrēs nūntĭō (nūntĭō̆)",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mih[i]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mĭh[i]",
+          "form_accent": "mihi"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "atque",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ātquĕ",
+          "form_accent": "atque"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "spectatores",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "spēctātōrēs",
+          "form_accent": "spectatóres"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "nuntio",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūntĭō",
+          "form_accent": "núntio"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "nūntĭō",
+          "form_accent": "núntio"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "nūntĭŏ",
+          "form_accent": "núntio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "verse": "quam potero in verba conferam paucissuma.",
+  "collatinus_accentuate": "quam pótero in verba cónferam paucissuma",
+  "collatinus_scan": "quām pŏtĕr[o] īn vērbă cōnfĕrām pāucīssuma",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "quam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quām",
+          "form_accent": "quam"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "poter[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŏtĕr[o]",
+          "form_accent": "pótero"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "in",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "verba",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vērbă",
+          "form_accent": "verba"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "conferam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōnfĕrām",
+          "form_accent": "cónferam"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "paucissuma",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pāucīssuma",
+          "form_accent": "paucissuma"
+        }
+      ]
+    }
+  ]
+}

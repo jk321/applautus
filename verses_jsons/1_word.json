@@ -1,0 +1,84 @@
+{
+  "verse": "Salutem primum iam a principio propitiam",
+  "collatinus_accentuate": "Salútem primum jam a princípio propítiam",
+  "collatinus_scan": "Sălūtēm (Sā̆lūtēm) prīmūm j[am] ā prīncĭpĭō prŏpĭtĭăm",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Salutem",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Sălūtēm",
+          "form_accent": "Salútem"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "Sālūtēm",
+          "form_accent": "Salútem"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "Sălūtēm",
+          "form_accent": "Salútem"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "primum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prīmūm",
+          "form_accent": "primum"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "j[am]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "j[am]",
+          "form_accent": "jam"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "a",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ā",
+          "form_accent": "a"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "principio",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prīncĭpĭō",
+          "form_accent": "princípio"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "propitiam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "prŏpĭtĭăm",
+          "form_accent": "propítiam"
+        }
+      ]
+    }
+  ]
+}

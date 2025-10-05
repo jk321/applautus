@@ -1,0 +1,293 @@
+{
+  "verse": "apporto vobis Plautum, lingua non manu,",
+  "collatinus_accentuate": "appórto vobis Plautum lingua non manu",
+  "collatinus_scan": "āppōrtō̆ vōbīs Plāutūm līngụă (līngụā) nōn mănū",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "apporto",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āppōrtō",
+          "form_accent": "appórto",
+          "hyphen_scan": "āp-pōr-tō",
+          "hyphen_accent": "ap-pór-to",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ap",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "por",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "to",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "āppōrtŏ",
+          "form_accent": "appórto",
+          "hyphen_scan": "āp-pōr-tŏ",
+          "hyphen_accent": "ap-pór-to",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ap",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "por",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "to",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "vobis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis",
+          "hyphen_scan": "vō-bīs",
+          "hyphen_accent": "vo-bis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vo",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "Plautum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Plāutūm",
+          "form_accent": "Plautum",
+          "hyphen_scan": "Plāu-tūm",
+          "hyphen_accent": "Plau-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Plau",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "lingụa",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "līngụă",
+          "form_accent": "lingua",
+          "hyphen_scan": "līn-gụ-ă",
+          "hyphen_accent": "lin-gu-a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "lin",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gu",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "a",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "līngụā",
+          "form_accent": "lingua",
+          "hyphen_scan": "līn-gụ-ā",
+          "hyphen_accent": "lin-gu-a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "lin",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gu",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "a",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "non",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non",
+          "hyphen_scan": "nōn",
+          "hyphen_accent": "non",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "non",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "manu",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mănū",
+          "form_accent": "manu",
+          "hyphen_scan": "mă-nū",
+          "hyphen_accent": "ma-nu",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ma",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nu",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

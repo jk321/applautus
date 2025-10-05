@@ -1,0 +1,84 @@
+{
+  "verse": "apporto vobis Plautum, lingua non manu,",
+  "collatinus_accentuate": "appórto vobis Plautum lingua non manu",
+  "collatinus_scan": "āppōrtō̆ vōbīs Plāutūm līngụă (līngụā) nōn mănū",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "apporto",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āppōrtō",
+          "form_accent": "appórto"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "āppōrtŏ",
+          "form_accent": "appórto"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "vobis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "Plautum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Plāutūm",
+          "form_accent": "Plautum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "lingụa",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "līngụă",
+          "form_accent": "lingua"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "līngụā",
+          "form_accent": "lingua"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "non",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "manu",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mănū",
+          "form_accent": "manu"
+        }
+      ]
+    }
+  ]
+}

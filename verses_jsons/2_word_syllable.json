@@ -1,0 +1,277 @@
+{
+  "verse": "mihi atque vobis, spectatores, nuntio.",
+  "collatinus_accentuate": "mihi atque vobis spectatóres núntio",
+  "collatinus_scan": "mĭh[i] ātquĕ vōbīs spēctātōrēs nūntĭō (nūntĭō̆)",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mih[i]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mĭh[i]",
+          "form_accent": "mihi",
+          "hyphen_scan": "mĭh-[i]",
+          "hyphen_accent": "mi-hi",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mih",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "[i]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "atque",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ātquĕ",
+          "form_accent": "atque",
+          "hyphen_scan": "āt-quĕ",
+          "hyphen_accent": "at-que",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "at",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "que",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis",
+          "hyphen_scan": "vō-bīs",
+          "hyphen_accent": "vo-bis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vo",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "spectatores",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "spēctātōrēs",
+          "form_accent": "spectatóres",
+          "hyphen_scan": "spēc-tā-tō-rēs",
+          "hyphen_accent": "spec-ta-tó-res",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "spec",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ta",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "to",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "res",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "nuntio",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūntĭō",
+          "form_accent": "núntio",
+          "hyphen_scan": "nūn-tĭ-ō",
+          "hyphen_accent": "nún-ti-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nun",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ti",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "nūntĭō",
+          "form_accent": "núntio",
+          "hyphen_scan": "nūn-tĭ-ō",
+          "hyphen_accent": "nún-ti-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nun",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ti",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "nūntĭŏ",
+          "form_accent": "núntio",
+          "hyphen_scan": "nūn-tĭ-ŏ",
+          "hyphen_accent": "nún-ti-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nun",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ti",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
