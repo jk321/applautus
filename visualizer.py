@@ -8,7 +8,7 @@ import streamlit as st
 
 # ---------------- Config & Paths ----------------
 APP_FOLDER = Path(__file__).parent.resolve()
-VERSES_DIR = APP_FOLDER / "verses_jsons"  # per request
+VERSES_DIR = APP_FOLDER / "verses_jsons"  # strict folder per your request
 FILE_PATTERN = re.compile(r"^\s*(\d+)_word_syllable_verse-mask_metre-matching\.json$", re.IGNORECASE)
 
 st.set_page_config(page_title="ApPlautus", page_icon="📜", layout="wide")
@@ -123,14 +123,22 @@ header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !imp
 }
 
 /* Ictus & BOTH via background color (not text color) */
-.syl.icted { background: #ffebee; }  /* light red */
-.syl.both  { background: #e8f5e9; }  /* light green */
+.syl.icted { background: #ffebee; }  /* light red background */
+.syl.both  { background: #e8f5e9; }  /* light green background */
 
-/* Elision syllables: muted (gray), no markers/ticks/colors handled in HTML) */
+/* Elision syllables: muted (gray), no markers/ticks/colors handled in HTML */
 .syl.elide { color:#888; background:#fff; }
 
 /* Clear separation between words (slightly larger than intra-word spacing) */
 .word-gap { display:inline-block; width:1.6rem; height:1px; }
+
+/* Foot boundary vertical divider (after Nth effective syllable) */
+.foot-divider {
+  width: 0;
+  border-left: 1px solid rgba(0,0,0,.55);
+  height: 3.2rem;           /* spans marker + chip nicely */
+  margin: 0 .25rem;         /* tiny horizontal breathing room */
+}
 
 /* Plain mask list (no hover), with extra bottom margin */
 .mask-list {
@@ -154,20 +162,12 @@ header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !imp
 
 # ---------------- Helpers ----------------
 def list_json_files() -> List[Path]:
-    """
-    Return only files that match:
-    <number>_word_syllable_verse-mask_metre-matching.json
-    in ./verses_jsons/
-    """
+    """Only files matching <number>_word_syllable_verse-mask_metre-matching.json in ./verses_jsons/"""
     VERSES_DIR.mkdir(parents=True, exist_ok=True)
     matched = []
     for p in VERSES_DIR.iterdir():
-        if not p.is_file():
-            continue
-        m = FILE_PATTERN.match(p.name)
-        if not m:
-            continue
-        matched.append(p)
+        if p.is_file() and FILE_PATTERN.match(p.name):
+            matched.append(p)
     matched.sort(key=lambda p: int(FILE_PATTERN.match(p.name).group(1)))
     return matched
 
@@ -191,10 +191,24 @@ def mask_to_dash_u(mask_str: str) -> str:
     # l/L -> '-', s/S -> 'u'
     return "".join("-" if ch in "lL" else "u" if ch in "sS" else ch for ch in str(mask_str))
 
+def bool_strict(val: Any) -> bool:
+    """Strict-ish boolean: accept True/False, 1/0, and 'true'/'false' (case-insensitive)."""
+    if isinstance(val, bool):
+        return val
+    if isinstance(val, (int, float)):
+        return val != 0
+    if isinstance(val, str):
+        v = val.strip().lower()
+        if v in {"true", "1", "yes", "y"}:
+            return True
+        if v in {"false", "0", "no", "n", ""}:
+            return False
+    return False
+
 def reconstruct_units(
     data: Dict[str, Any], mask: Dict[str, Any]
-) -> Tuple[List[Dict[str, Any]], List[int], List[int], str, str]:
-    """Return (units, ictus_positions, accent_positions, mask_ls, mask_du)."""
+) -> Tuple[List[Dict[str, Any]], List[int], List[int], str, str, List[int], List[int]]:
+    """Return (units, ictus_positions, accent_positions, mask_ls, mask_du, foot_after, hiatus_after)."""
     words = data.get("words") or []
     words_by = idx_by_num(words, "word_number")
 
@@ -214,28 +228,43 @@ def reconstruct_units(
             units.append({"word_number": wnum, "variant_number": vnum, "word_text": f"{w.get('text','[word]')}[missing variant #{vnum}]", "syllables": []})
             continue
         sylls = (v.get("syllables") or [])
+        # Ensure sort by syllable_number + normalize bools
         sylls_sorted = sorted(sylls, key=lambda s: int(s.get("syllable_number", 10**9)))
+        for s in sylls_sorted:
+            s["elision"] = bool_strict(s.get("elision", False))
+            s["length"]  = bool_strict(s.get("length", False))
         units.append({"word_number": wnum, "variant_number": vnum, "word_text": w.get("text",""), "syllables": sylls_sorted})
 
     ict = [int(i) for i in (mask.get("icted_syllables") or []) if isinstance(i, (int, float))]
     acc = [int(i) for i in (mask.get("accented_syllables") or []) if isinstance(i, (int, float))]
     mask_ls = str(mask.get("prosodic_mask", ""))           # original l/s
     mask_du = mask_to_dash_u(mask_ls)                      # converted -/u
-    return units, ict, acc, mask_ls, mask_du
+    foot_after   = [int(i) for i in (mask.get("foot_boundary_after") or []) if isinstance(i, (int, float))]
+    hiatus_after = [int(i) for i in (mask.get("hiatus_after") or []) if isinstance(i, (int, float))]
+    return units, ict, acc, mask_ls, mask_du, foot_after, hiatus_after
 
 def html_escape(s: str) -> str:
     return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 
-def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent_positions: List[int]) -> str:
+def render_units(
+    units: List[Dict[str, Any]],
+    ictus_positions: List[int],
+    accent_positions: List[int],
+    foot_after: List[int],
+    hiatus_after: List[int],
+) -> str:
     """
     Two aligned rows per syllable column:
-      - top row: '-' for long or 'u' for short (from syllable.length)
-      - bottom: syllable chip; ictus = light red background; both accent+ictus = light green
-      - accent tick is a vertical line above; uses text color
-      - elision: ignore in counting, no '-', no tick, no color, gray text
+      - top row: '-' (long) or 'u' (short) from syllable.length
+      - bottom: syllable chip; ictus = light red bg; both accent+ictus = light green bg
+      - accent tick is a vertical line above (via .accent)
+      - elision: grey and ignored in counting ONLY if this variant's elision==True
+        AND its candidate effective index is NOT in hiatus_after.
+        If candidate index IS in hiatus_after -> treat as NON-elided (count it, normal styling).
+      - foot boundaries: thin vertical lines after the given effective indices (ignoring elided syllables)
     """
     parts: List[str] = []
-    eff_idx = 0  # effective syllable index (ignoring elisions)
+    eff_idx = 0  # effective syllable index (ignoring elisions per rule above)
 
     parts.append('<div class="ap-verse">')
     for ui, unit in enumerate(units):
@@ -250,22 +279,31 @@ def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent
             continue
 
         for syl in unit["syllables"]:
-            is_elide = bool(syl.get("elision"))
-            is_long = bool(syl.get("length"))
+            default_elide = bool_strict(syl.get("elision", False))
+            is_long       = bool_strict(syl.get("length", False))
 
-            # marker above
+            # What would be the next effective index if we count this syllable?
+            candidate_idx = eff_idx + 1
+
+            # Override: if this position is in hiatus_after, force NON-elision
+            if default_elide and (candidate_idx in hiatus_after):
+                is_elide = False
+            else:
+                is_elide = default_elide
+
+            # marker above: only for non-elided
             mark_char = "-" if (is_long and not is_elide) else ("u" if (not is_long and not is_elide) else "&nbsp;")
 
             classes = ["syl"]
             title_bits = []
 
             if not is_elide:
-                eff_idx += 1  # <-- IGNORE elisions for counting
+                eff_idx += 1  # count this syllable
 
                 is_accent = (eff_idx in accent_positions)
                 is_ictus  = (eff_idx in ictus_positions)
 
-                # choose background color class
+                # background color class
                 if is_accent and is_ictus:
                     classes.append("both")   # green background
                     classes.append("accent") # keep vertical tick
@@ -274,7 +312,7 @@ def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent
                     classes.append("accent") # tick only
                     title_bits.append("accent")
                 elif is_ictus:
-                    classes.append("icted")  # red background
+                    classes.append("icted")  # light red background
                     title_bits.append("ictus")
 
                 title_bits.append("long" if is_long else "short")
@@ -282,12 +320,17 @@ def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent
                 classes.append("elide")
                 title_bits.append("elision")
 
+            # render the syllable column
             parts.append(
                 f'<div class="syl-col">'
                 f'  <div class="syl-mark">{mark_char}</div>'
                 f'  <span class="{" ".join(classes)}" title="{html_escape(", ".join(title_bits) or "syllable")}">{html_escape(syl.get("text",""))}</span>'
                 f'</div>'
             )
+
+            # foot boundary AFTER this effective syllable?
+            if (not is_elide) and (eff_idx in foot_after):
+                parts.append('<span class="foot-divider"></span>')
 
     parts.append('</div>')
     return "".join(parts)
@@ -385,7 +428,7 @@ if not cands:
 if "mask_idx" not in st.session_state:
     st.session_state["mask_idx"] = 0
 
-# Buttons grid
+# Buttons grid for selecting analysis mask
 cols_per_row = 3
 rows = (len(cands) + cols_per_row - 1) // cols_per_row
 btn_index = 0
@@ -405,9 +448,12 @@ for _ in range(rows):
 
 mask = cands[st.session_state["mask_idx"]]
 
-# ---------------- Reconstruction (centered & bigger; markers above; elision & BOTH rules) ----------------
-units, ictus_positions, accent_positions, mask_ls, mask_du = reconstruct_units(data, mask)
-st.markdown(render_units(units, ictus_positions, accent_positions), unsafe_allow_html=True)
+# ---------------- Reconstruction (markers above; elision-aware w/ hiatus override; foot boundaries) ----------------
+units, ictus_positions, accent_positions, mask_ls, mask_du, foot_after, hiatus_after = reconstruct_units(data, mask)
+st.markdown(
+    render_units(units, ictus_positions, accent_positions, foot_after, hiatus_after),
+    unsafe_allow_html=True
+)
 
 # ---------------- Details (always open) ----------------
 with st.expander("Details", expanded=True):
@@ -424,6 +470,7 @@ with st.expander("Details", expanded=True):
         st.write("**Ictus positions:**", ict)
         st.write("**Accented positions:**", acc)
         st.write("**Accent ∩ Ictus:**", inter)
+        st.write("**Foot boundaries after:**", ", ".join(map(str, foot_after)) or "—")
         st.write("**Syllable count:**", mask.get("syllable_count", "—"))
 
 # ---------------- Footer ----------------
