@@ -95,7 +95,7 @@ header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !imp
   color: #444;
 }
 
-/* The syllable chip itself (simple, no backgrounds) */
+/* The syllable chip itself */
 .syl {
   position: relative;
   display:inline-block;
@@ -107,11 +107,11 @@ header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !imp
   line-height:1.2;
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Helvetica, Arial;
   font-size: 1.3rem;
-  color:#222;
+  color:#222;                  /* keep text color neutral */
   white-space: nowrap;
 }
 
-/* Accent: vertical tick above the chip */
+/* Accent: vertical tick above the chip (uses current text color) */
 .syl.accent::before {
   content:"";
   position:absolute;
@@ -122,14 +122,12 @@ header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !imp
   border-left:2px solid currentColor;
 }
 
-/* Ictus syllables in red */
-.syl.icted { color:#c62828; }
+/* Ictus & BOTH via background color (not text color) */
+.syl.icted { background: #ffebee; }  /* light red */
+.syl.both  { background: #e8f5e9; }  /* light green */
 
-/* BOTH (accent & ictus): green, still shows the accent tick */
-.syl.both { color:#2e7d32; }  /* green */
-
-/* Elision syllables: muted (gray), no markers/ticks handled in HTML */
-.syl.elide { color:#888; }
+/* Elision syllables: muted (gray), no markers/ticks/colors handled in HTML) */
+.syl.elide { color:#888; background:#fff; }
 
 /* Clear separation between words (slightly larger than intra-word spacing) */
 .word-gap { display:inline-block; width:1.6rem; height:1px; }
@@ -232,12 +230,12 @@ def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent
     """
     Two aligned rows per syllable column:
       - top row: '-' for long or 'u' for short (from syllable.length)
-      - bottom: syllable chip; red if ictus; vertical tick if accented
-      - BOTH (accent & ictus): green (with accent tick)
-      - if syllable.elision==True: no '-', no tick, not red/green, chip in gray
+      - bottom: syllable chip; ictus = light red background; both accent+ictus = light green
+      - accent tick is a vertical line above; uses text color
+      - elision: ignore in counting, no '-', no tick, no color, gray text
     """
     parts: List[str] = []
-    global_idx = 0  # 1-based position across the verse
+    eff_idx = 0  # effective syllable index (ignoring elisions)
 
     parts.append('<div class="ap-verse">')
     for ui, unit in enumerate(units):
@@ -252,29 +250,34 @@ def render_units(units: List[Dict[str, Any]], ictus_positions: List[int], accent
             continue
 
         for syl in unit["syllables"]:
-            global_idx += 1
             is_elide = bool(syl.get("elision"))
             is_long = bool(syl.get("length"))
+
+            # marker above
             mark_char = "-" if (is_long and not is_elide) else ("u" if (not is_long and not is_elide) else "&nbsp;")
 
             classes = ["syl"]
             title_bits = []
+
             if not is_elide:
-                title_bits.append("long" if is_long else "short")
+                eff_idx += 1  # <-- IGNORE elisions for counting
 
-                is_accent = (global_idx in accent_positions)
-                is_ictus = (global_idx in ictus_positions)
+                is_accent = (eff_idx in accent_positions)
+                is_ictus  = (eff_idx in ictus_positions)
 
+                # choose background color class
                 if is_accent and is_ictus:
-                    classes.append("both")   # green
-                    classes.append("accent") # keep tick
+                    classes.append("both")   # green background
+                    classes.append("accent") # keep vertical tick
                     title_bits += ["accent", "ictus"]
                 elif is_accent:
-                    classes.append("accent")
+                    classes.append("accent") # tick only
                     title_bits.append("accent")
                 elif is_ictus:
-                    classes.append("icted")  # red
+                    classes.append("icted")  # red background
                     title_bits.append("ictus")
+
+                title_bits.append("long" if is_long else "short")
             else:
                 classes.append("elide")
                 title_bits.append("elision")
@@ -411,7 +414,6 @@ with st.expander("Details", expanded=True):
     colA, colB = st.columns(2)
     with colA:
         st.write("**Mask**")
-        # Show both representations under one heading
         st.code(mask_ls, language="text")
         st.code(mask_du, language="text")
         st.write("**Verse type:**", mask.get("verse_type","—"))
