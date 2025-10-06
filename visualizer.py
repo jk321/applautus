@@ -1,4 +1,4 @@
-# app.py — ApPlautus
+# app.py — ApPlautus (logic-only; styles live in styles.css)
 from __future__ import annotations
 import json
 import re
@@ -9,156 +9,24 @@ import streamlit as st
 # ---------------- Config & Paths ----------------
 APP_FOLDER = Path(__file__).parent.resolve()
 VERSES_DIR = APP_FOLDER / "verses_jsons"  # strict folder per your request
+CSS_PATH = APP_FOLDER / "styles.css"
 FILE_PATTERN = re.compile(r"^\s*(\d+)_word_syllable_verse-mask_metre-matching\.json$", re.IGNORECASE)
 
 st.set_page_config(page_title="ApPlautus", page_icon="📜", layout="wide")
 
-# ---------------- Styles ----------------
-st.markdown(
-    """
-<style>
-/* Sidebar slightly narrower (single-line verse buttons) */
-[data-testid="stSidebar"] {
-  min-width: 440px !important;
-  width: 440px !important;
-}
-section[data-testid="stSidebar"] .block-container { padding-top: .6rem; }
+# ---------------- Utils ----------------
+def inject_css(path: Path) -> None:
+    try:
+        css = path.read_text(encoding="utf-8")
+        st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
+    except Exception as e:
+        st.warning(f"Could not load CSS from {path.name}: {e}")
 
-/* Hide Streamlit's Deploy toolbar */
-header[data-testid="stHeader"] div[data-testid="stToolbar"] { display: none !important; }
+def html_escape(s: str) -> str:
+    return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 
-/* Sidebar verse "lines" like poem; single line, no wrap */
-.sidebar-verse button {
-  background: transparent !important;
-  border: none !important;
-  color: #1f2937 !important;
-  text-align: left !important;
-  padding: .25rem .25rem !important;
-  border-radius: .25rem !important;
-  font-size: 1rem !important;
-  line-height: 1.15 !important;
-  white-space: nowrap !important;
-  overflow: hidden !important;
-  text-overflow: ellipsis !important;
-}
-.sidebar-verse button:hover {
-  background: rgba(0,0,0,.06) !important;
-}
-
-/* Centered BIG verse text (no heading) */
-.ap-verse-header {
-  display: flex;
-  justify-content: center;
-  margin-top: .25rem;
-}
-.ap-verse-header .text {
-  font-size: 1.6rem;
-  line-height: 1.4;
-  text-align: center;
-}
-
-/* Collatinus meta: left-aligned + larger top margin */
-.ap-meta {
-  text-align: left;
-  color:#555;
-  margin: 1rem auto 0 auto; /* bigger vertical space above */
-  max-width: 1100px;
-}
-
-/* Spacer before metrics (Words / Prosodic masks) */
-.spacer-before-metrics { height: 1.25rem; }
-
-/* Reconstruction: centered & bigger, markers above; extra bottom margin before Details */
-.ap-verse {
-  display:flex;
-  justify-content:center;
-  align-items:flex-start;
-  flex-wrap:wrap;
-  gap:.6rem 1.0rem;            /* syllables within same word slightly closer */
-  padding:1.1rem 1rem 0 1rem;
-  margin-bottom: 1.75rem;      /* bigger vertical space before Details */
-}
-
-/* One syllable column: marker above, chip below */
-.syl-col {
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  gap:.2rem;
-}
-
-/* Marker row above syllable: shows '-' or 'u' */
-.syl-mark {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  font-size: 1.25rem;
-  line-height: 1;
-  color: #444;
-}
-
-/* The syllable chip itself */
-.syl {
-  position: relative;
-  display:inline-block;
-  padding:.25rem .50rem;
-  margin:0;
-  border:1px solid rgba(0,0,0,.30);
-  border-radius:.50rem;
-  background:#fff;
-  line-height:1.2;
-  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Helvetica, Arial;
-  font-size: 1.3rem;
-  color:#222;                  /* keep text color neutral */
-  white-space: nowrap;
-}
-
-/* Accent: vertical tick above the chip (uses current text color) */
-.syl.accent::before {
-  content:"";
-  position:absolute;
-  top:-10px;
-  left:50%;
-  transform:translateX(-50%);
-  height:12px;
-  border-left:2px solid currentColor;
-}
-
-/* Ictus & BOTH via background color (not text color) */
-.syl.icted { background: #ffebee; }  /* light red background */
-.syl.both  { background: #e8f5e9; }  /* light green background */
-
-/* Elision syllables: muted (gray), no markers/ticks/colors handled in HTML */
-.syl.elide { color:#888; background:#fff; }
-
-/* Clear separation between words (slightly larger than intra-word spacing) */
-.word-gap { display:inline-block; width:1.6rem; height:1px; }
-
-/* Foot boundary vertical divider (after Nth effective syllable) */
-.foot-divider {
-  width: 0;
-  border-left: 1px solid rgba(0,0,0,.55);
-  height: 3.2rem;           /* spans marker + chip nicely */
-  margin: 0 .25rem;         /* tiny horizontal breathing room */
-}
-
-/* Plain mask list (no hover), with extra bottom margin */
-.mask-list {
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:.35rem .5rem;
-  margin-top:.5rem;
-  margin-bottom: 1.25rem;  /* bigger space after masks */
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
-  font-size:.95rem;
-  color:#333;
-  white-space:nowrap;
-}
-
-/* Footer */
-.ap-footer { text-align:center; margin:2rem 0 .5rem 0; color:#666; font-size:.9rem; }
-</style>
-""",
-    unsafe_allow_html=True
-)
+# inject external CSS
+inject_css(CSS_PATH)
 
 # ---------------- Helpers ----------------
 def list_json_files() -> List[Path]:
@@ -192,7 +60,7 @@ def mask_to_dash_u(mask_str: str) -> str:
     return "".join("-" if ch in "lL" else "u" if ch in "sS" else ch for ch in str(mask_str))
 
 def bool_strict(val: Any) -> bool:
-    """Strict-ish boolean: accept True/False, 1/0, and 'true'/'false' (case-insensitive)."""
+    """Boolean-ish coercion that handles True/False, 1/0, and 'true'/'false' strings."""
     if isinstance(val, bool):
         return val
     if isinstance(val, (int, float)):
@@ -243,9 +111,6 @@ def reconstruct_units(
     hiatus_after = [int(i) for i in (mask.get("hiatus_after") or []) if isinstance(i, (int, float))]
     return units, ict, acc, mask_ls, mask_du, foot_after, hiatus_after
 
-def html_escape(s: str) -> str:
-    return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
-
 def render_units(
     units: List[Dict[str, Any]],
     ictus_positions: List[int],
@@ -259,8 +124,7 @@ def render_units(
       - bottom: syllable chip; ictus = light red bg; both accent+ictus = light green bg
       - accent tick is a vertical line above (via .accent)
       - elision: grey and ignored in counting ONLY if this variant's elision==True
-        AND its candidate effective index is NOT in hiatus_after.
-        If candidate index IS in hiatus_after -> treat as NON-elided (count it, normal styling).
+        AND its candidate effective index is NOT in hiatus_after (hiatus forces non-elision).
       - foot boundaries: thin vertical lines after the given effective indices (ignoring elided syllables)
     """
     parts: List[str] = []
@@ -282,14 +146,11 @@ def render_units(
             default_elide = bool_strict(syl.get("elision", False))
             is_long       = bool_strict(syl.get("length", False))
 
-            # What would be the next effective index if we count this syllable?
+            # candidate effective index if we count this syllable
             candidate_idx = eff_idx + 1
 
-            # Override: if this position is in hiatus_after, force NON-elision
-            if default_elide and (candidate_idx in hiatus_after):
-                is_elide = False
-            else:
-                is_elide = default_elide
+            # hiatus override: if candidate index is in hiatus_after, force non-elision
+            is_elide = default_elide and (candidate_idx not in hiatus_after)
 
             # marker above: only for non-elided
             mark_char = "-" if (is_long and not is_elide) else ("u" if (not is_long and not is_elide) else "&nbsp;")
@@ -337,7 +198,7 @@ def render_units(
 
 # ---------------- Sidebar: list verses (clickable) ----------------
 with st.sidebar:
-    st.title("ApPlautus")
+    st.markdown('<h1 class="ap-title">ApPlautus</h1>', unsafe_allow_html=True)
 
     files = list_json_files()
     if not files:
@@ -382,7 +243,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Collatinus (left-aligned, with bigger top margin via CSS)
+# Collatinus (left-aligned)
 st.markdown(
     f'<div class="ap-meta"><b>Collatinus scansion:</b> {html_escape(data.get("collatinus_scan","—"))}<br>'
     f'<b>Collatinus accentuation:</b> {html_escape(data.get("collatinus_accentuate","—"))}</div>',
@@ -403,7 +264,6 @@ with left:
 with right:
     st.metric("Prosodic masks", total_mask_count)
 
-# Plain list of all masks (informational)
 def mask_label_in_list(m: Dict[str, Any]) -> str:
     mn = int(m.get("mask_number", -1)) if isinstance(m.get("mask_number"), (int, float)) else -1
     vt = str(m.get("verse_type", "—")).strip() or "—"
@@ -428,7 +288,6 @@ if not cands:
 if "mask_idx" not in st.session_state:
     st.session_state["mask_idx"] = 0
 
-# Buttons grid for selecting analysis mask
 cols_per_row = 3
 rows = (len(cands) + cols_per_row - 1) // cols_per_row
 btn_index = 0
@@ -448,7 +307,7 @@ for _ in range(rows):
 
 mask = cands[st.session_state["mask_idx"]]
 
-# ---------------- Reconstruction (markers above; elision-aware w/ hiatus override; foot boundaries) ----------------
+# ---------------- Reconstruction (markers above; elision+hiatus rules; foot boundaries) ----------------
 units, ictus_positions, accent_positions, mask_ls, mask_du, foot_after, hiatus_after = reconstruct_units(data, mask)
 st.markdown(
     render_units(units, ictus_positions, accent_positions, foot_after, hiatus_after),
