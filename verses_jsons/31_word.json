@@ -1,0 +1,79 @@
+{
+  "verse": "puer aberravit inter homines a patre.",
+  "collatinus_accentuate": "puer aberrávit inter hómines a patre",
+  "collatinus_scan": "pŭĕr ăbērrāvĭt īntĕr hŏmĭnēs ā pā̆trĕ",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "puer",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕr",
+          "form_accent": "puer"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "aberravit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ăbērrāvĭt",
+          "form_accent": "aberrávit"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "inter",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īntĕr",
+          "form_accent": "inter"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "homines",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hŏmĭnēs",
+          "form_accent": "hómines"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "a",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ā",
+          "form_accent": "a"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "patre",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pātrĕ",
+          "form_accent": "patre"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "pătrĕ",
+          "form_accent": "patre"
+        }
+      ]
+    }
+  ]
+}

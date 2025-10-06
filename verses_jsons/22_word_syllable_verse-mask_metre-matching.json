@@ -1,0 +1,389 @@
+{
+  "verse": "ut quidem ille dixit mihi, qui pueros viderat:",
+  "collatinus_accentuate": "ut quidem ille dixit mihi qui púeros víderat",
+  "collatinus_scan": "ūt quĭd[em] īllĕ dīxīt mĭhĭ quī pŭĕrōs vīdĕrăt",
+  "word_count": 8,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ut",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ūt",
+          "form_accent": "ut",
+          "hyphen_scan": "ūt",
+          "hyphen_accent": "ut",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ut",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "quid[em]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quĭd[em]",
+          "form_accent": "quidem",
+          "hyphen_scan": "quĭd-[em]",
+          "hyphen_accent": "qui-dem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "quid",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "[em]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "ille",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllĕ",
+          "form_accent": "ille",
+          "hyphen_scan": "īl-lĕ",
+          "hyphen_accent": "il-le",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "il",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "le",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "dixit",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīxīt",
+          "form_accent": "dixit",
+          "hyphen_scan": "dī-xīt",
+          "hyphen_accent": "di-xit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "di",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "xit",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mihi",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mĭhĭ",
+          "form_accent": "mihi",
+          "hyphen_scan": "mĭ-hĭ",
+          "hyphen_accent": "mi-hi",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mi",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "hi",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "qui",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quī",
+          "form_accent": "qui",
+          "hyphen_scan": "quī",
+          "hyphen_accent": "qui",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "qui",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "pueros",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕrōs",
+          "form_accent": "púeros",
+          "hyphen_scan": "pŭ-ĕ-rōs",
+          "hyphen_accent": "pú-e-ros",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pu",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "e",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ros",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 8,
+      "text": "viderat",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vīdĕrăt",
+          "form_accent": "víderat",
+          "hyphen_scan": "vī-dĕ-răt",
+          "hyphen_accent": "ví-de-rat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vi",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "rat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 2,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "lsslsllsslssllss",
+        "syllable_count": 16,
+        "accented_syllables": [
+          1,
+          2,
+          4,
+          6,
+          8,
+          10,
+          11,
+          14
+        ],
+        "hiatus_after": [
+          3
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          },
+          {
+            "word": 8,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "lslsllsslssllss",
+        "syllable_count": 15,
+        "accented_syllables": [
+          1,
+          2,
+          3,
+          5,
+          7,
+          9,
+          10,
+          13
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          },
+          {
+            "word": 8,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

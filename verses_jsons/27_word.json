@@ -1,0 +1,74 @@
+{
+  "verse": "Tarentum avexit secum ad mercatum simul,",
+  "collatinus_accentuate": "Taréntum avéxit secum ad mercátum simul",
+  "collatinus_scan": "Tărēnt[um] āvēxīt sēc[um] ād mērcātūm sĭmŭl",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Tarent[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Tărēnt[um]",
+          "form_accent": "Taréntum"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "avexit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āvēxīt",
+          "form_accent": "avéxit"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "sec[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sēc[um]",
+          "form_accent": "secum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ad",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mercatum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcātūm",
+          "form_accent": "mercátum"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "simul",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĭmŭl",
+          "form_accent": "simul"
+        }
+      ]
+    }
+  ]
+}

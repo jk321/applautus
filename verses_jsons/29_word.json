@@ -1,0 +1,95 @@
+{
+  "verse": "Tarenti ludi forte erant, cum illuc venit.",
+  "collatinus_accentuate": "Tarénti ludi forte erant cum illuc venit",
+  "collatinus_scan": "Tărēntī lūdī fōrt[e] ĕrānt c[um] īllūc vĕnĭt (vēnĭt vēnīt)",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Tarenti",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Tărēntī",
+          "form_accent": "Tarénti"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ludi",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "lūdī",
+          "form_accent": "ludi"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "fort[e]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fōrt[e]",
+          "form_accent": "forte"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "erant",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕrānt",
+          "form_accent": "erant"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "c[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "c[um]",
+          "form_accent": "cum"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "illuc",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūc",
+          "form_accent": "illuc"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "venit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vĕnĭt",
+          "form_accent": "venit"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "vēnĭt",
+          "form_accent": "venit"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "vēnīt",
+          "form_accent": "venit"
+        }
+      ]
+    }
+  ]
+}

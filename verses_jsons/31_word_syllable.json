@@ -1,0 +1,257 @@
+{
+  "verse": "puer aberravit inter homines a patre.",
+  "collatinus_accentuate": "puer aberrávit inter hómines a patre",
+  "collatinus_scan": "pŭĕr ăbērrāvĭt īntĕr hŏmĭnēs ā pā̆trĕ",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "puer",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕr",
+          "form_accent": "puer",
+          "hyphen_scan": "pŭ-ĕr",
+          "hyphen_accent": "pu-er",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pu",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "er",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "aberravit",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ăbērrāvĭt",
+          "form_accent": "aberrávit",
+          "hyphen_scan": "ă-bēr-rā-vĭt",
+          "hyphen_accent": "a-ber-rá-vit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ber",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ra",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "vit",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "inter",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īntĕr",
+          "form_accent": "inter",
+          "hyphen_scan": "īn-tĕr",
+          "hyphen_accent": "in-ter",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "in",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "homines",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hŏmĭnēs",
+          "form_accent": "hómines",
+          "hyphen_scan": "hŏ-mĭ-nēs",
+          "hyphen_accent": "hó-mi-nes",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ho",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mi",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nes",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "a",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ā",
+          "form_accent": "a",
+          "hyphen_scan": "ā",
+          "hyphen_accent": "a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "patre",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pātrĕ",
+          "form_accent": "patre",
+          "hyphen_scan": "pāt-rĕ",
+          "hyphen_accent": "pat-re",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pat",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "re",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "pătrĕ",
+          "form_accent": "patre",
+          "hyphen_scan": "păt-rĕ",
+          "hyphen_accent": "pat-re",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pat",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "re",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

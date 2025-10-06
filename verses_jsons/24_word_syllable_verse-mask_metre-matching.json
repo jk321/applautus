@@ -1,0 +1,283 @@
+{
+  "verse": "postquam iam pueri septuennes sunt, pater",
+  "collatinus_accentuate": "postquam jam púeri septuénnes sunt pater",
+  "collatinus_scan": "pōstquām jām pŭĕrī sēptŭēnnēs sūnt pătĕr",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "postquam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pōstquām",
+          "form_accent": "postquam",
+          "hyphen_scan": "pōs-tquām",
+          "hyphen_accent": "pos-tquam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pos",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tquam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "jam",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "jām",
+          "form_accent": "jam",
+          "hyphen_scan": "jām",
+          "hyphen_accent": "jam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "jam",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "pueri",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕrī",
+          "form_accent": "púeri",
+          "hyphen_scan": "pŭ-ĕ-rī",
+          "hyphen_accent": "pú-e-ri",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pu",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "e",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ri",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "septuennes",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sēptŭēnnēs",
+          "form_accent": "septuénnes",
+          "hyphen_scan": "sēp-tŭ-ēn-nēs",
+          "hyphen_accent": "sep-tu-én-nes",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "sep",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tu",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "en",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "nes",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "sunt",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sūnt",
+          "form_accent": "sunt",
+          "hyphen_scan": "sūnt",
+          "hyphen_accent": "sunt",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "sunt",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "pater",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pătĕr",
+          "form_accent": "pater",
+          "hyphen_scan": "pă-tĕr",
+          "hyphen_accent": "pa-ter",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pa",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 1,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "lllssllslllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          1,
+          3,
+          4,
+          9,
+          11,
+          12
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          7,
+          9,
+          11,
+          13
+        ],
+        "foot_boundary_after": [
+          2,
+          5,
+          7,
+          9,
+          11
+        ],
+        "accent_ictus_intersection": 3
+      }
+    ]
+  }
+}

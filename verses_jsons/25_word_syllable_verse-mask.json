@@ -1,0 +1,246 @@
+{
+  "verse": "oneravit navem magnam multis mercibus;",
+  "collatinus_accentuate": "onerávit navem magnam multis mércibus",
+  "collatinus_scan": "ŏnĕrāvīt nāvēm māgnām mūltīs mērcĭbŭs",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "oneravit",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŏnĕrāvīt",
+          "form_accent": "onerávit",
+          "hyphen_scan": "ŏ-nĕ-rā-vīt",
+          "hyphen_accent": "o-ne-rá-vit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "o",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ne",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ra",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "vit",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "navem",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nāvēm",
+          "form_accent": "navem",
+          "hyphen_scan": "nā-vēm",
+          "hyphen_accent": "na-vem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "na",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "vem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "magnam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "māgnām",
+          "form_accent": "magnam",
+          "hyphen_scan": "māg-nām",
+          "hyphen_accent": "mag-nam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mag",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "multis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mūltīs",
+          "form_accent": "multis",
+          "hyphen_scan": "mūl-tīs",
+          "hyphen_accent": "mul-tis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mul",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mercibus",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcĭbŭs",
+          "form_accent": "mércibus",
+          "hyphen_scan": "mēr-cĭ-bŭs",
+          "hyphen_accent": "mér-ci-bus",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mer",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "bus",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 1,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "sslllllllllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

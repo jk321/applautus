@@ -1,0 +1,74 @@
+{
+  "verse": "mortales multi, ut ad ludos, convenerant:",
+  "collatinus_accentuate": "mortáles multi ut ad ludos convénerant",
+  "collatinus_scan": "mōrtālēs mūlt[i] ŭt ād lūdōs cōnvēnĕrānt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mortales",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mōrtālēs",
+          "form_accent": "mortáles"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "mult[i]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mūlt[i]",
+          "form_accent": "multi"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "ut",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŭt",
+          "form_accent": "ut"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ad",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ludos",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "lūdōs",
+          "form_accent": "ludos"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "convenerant",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōnvēnĕrānt",
+          "form_accent": "convénerant"
+        }
+      ]
+    }
+  ]
+}

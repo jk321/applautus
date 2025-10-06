@@ -1,0 +1,74 @@
+{
+  "verse": "imponit geminum alterum in navem pater,",
+  "collatinus_accentuate": "impónit géminum álterum in navem pater",
+  "collatinus_scan": "īmpōnīt gĕmĭn[um] āltĕr[um] īn nāvēm pătĕr",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "imponit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īmpōnīt",
+          "form_accent": "impónit"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "gemin[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "gĕmĭn[um]",
+          "form_accent": "géminum"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "alter[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āltĕr[um]",
+          "form_accent": "álterum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "in",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "navem",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nāvēm",
+          "form_accent": "navem"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "pater",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pătĕr",
+          "form_accent": "pater"
+        }
+      ]
+    }
+  ]
+}

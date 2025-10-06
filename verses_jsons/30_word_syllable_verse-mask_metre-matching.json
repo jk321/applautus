@@ -1,0 +1,342 @@
+{
+  "verse": "mortales multi, ut ad ludos, convenerant:",
+  "collatinus_accentuate": "mortáles multi ut ad ludos convénerant",
+  "collatinus_scan": "mōrtālēs mūlt[i] ŭt ād lūdōs cōnvēnĕrānt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mortales",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mōrtālēs",
+          "form_accent": "mortáles",
+          "hyphen_scan": "mōr-tā-lēs",
+          "hyphen_accent": "mor-tá-les",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mor",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ta",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "les",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "mult[i]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mūlt[i]",
+          "form_accent": "multi",
+          "hyphen_scan": "mūl-t[i]",
+          "hyphen_accent": "mul-ti",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mul",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "t[i]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "ut",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŭt",
+          "form_accent": "ut",
+          "hyphen_scan": "ŭt",
+          "hyphen_accent": "ut",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ut",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ad",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad",
+          "hyphen_scan": "ād",
+          "hyphen_accent": "ad",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ad",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ludos",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "lūdōs",
+          "form_accent": "ludos",
+          "hyphen_scan": "lū-dōs",
+          "hyphen_accent": "lu-dos",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "dos",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "convenerant",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōnvēnĕrānt",
+          "form_accent": "convénerant",
+          "hyphen_scan": "cōn-vē-nĕ-rānt",
+          "hyphen_accent": "con-vé-ne-rant",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "con",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ne",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "rant",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 2,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "llllsslllllsl",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          8,
+          11
+        ],
+        "hiatus_after": [
+          5
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          7,
+          9,
+          11,
+          13
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          7,
+          9,
+          11
+        ],
+        "accent_ictus_intersection": 4
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "llllslllllsl",
+        "syllable_count": 12,
+        "accented_syllables": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          10
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accent_ictus_intersection": 4
+      }
+    ]
+  }
+}

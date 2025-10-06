@@ -1,0 +1,221 @@
+{
+  "verse": "mortales multi, ut ad ludos, convenerant:",
+  "collatinus_accentuate": "mortáles multi ut ad ludos convénerant",
+  "collatinus_scan": "mōrtālēs mūlt[i] ŭt ād lūdōs cōnvēnĕrānt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mortales",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mōrtālēs",
+          "form_accent": "mortáles",
+          "hyphen_scan": "mōr-tā-lēs",
+          "hyphen_accent": "mor-tá-les",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mor",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ta",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "les",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "mult[i]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mūlt[i]",
+          "form_accent": "multi",
+          "hyphen_scan": "mūl-t[i]",
+          "hyphen_accent": "mul-ti",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mul",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "t[i]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "ut",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŭt",
+          "form_accent": "ut",
+          "hyphen_scan": "ŭt",
+          "hyphen_accent": "ut",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ut",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ad",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad",
+          "hyphen_scan": "ād",
+          "hyphen_accent": "ad",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ad",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ludos",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "lūdōs",
+          "form_accent": "ludos",
+          "hyphen_scan": "lū-dōs",
+          "hyphen_accent": "lu-dos",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "dos",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "convenerant",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōnvēnĕrānt",
+          "form_accent": "convénerant",
+          "hyphen_scan": "cōn-vē-nĕ-rānt",
+          "hyphen_accent": "con-vé-ne-rant",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "con",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ne",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "rant",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

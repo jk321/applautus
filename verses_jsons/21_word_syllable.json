@@ -1,0 +1,363 @@
+{
+  "verse": "neque adeo mater ipsa quae illos pepererat,",
+  "collatinus_accentuate": "neque ádeo mater ipsa quæ illos pepérerat",
+  "collatinus_scan": "nĕqu[e] ădĕō (ădĕō̆) mātĕr īpsă (īpsā) qu[āe] īllōs pĕpĕrĕrăt",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "nequ[e]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nĕqu[e]",
+          "form_accent": "neque",
+          "hyphen_scan": "nĕq-u[e]",
+          "hyphen_accent": "ne-que",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "neq",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "u[e]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "adeo",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ădĕō",
+          "form_accent": "ádeo",
+          "hyphen_scan": "ă-dĕ-ō",
+          "hyphen_accent": "á-de-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ădĕō",
+          "form_accent": "ádeo",
+          "hyphen_scan": "ă-dĕ-ō",
+          "hyphen_accent": "á-de-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "ădĕŏ",
+          "form_accent": "ádeo",
+          "hyphen_scan": "ă-dĕ-ŏ",
+          "hyphen_accent": "á-de-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "o",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "mater",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātĕr",
+          "form_accent": "mater",
+          "hyphen_scan": "mā-tĕr",
+          "hyphen_accent": "ma-ter",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ma",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ipsa",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īpsă",
+          "form_accent": "ipsa",
+          "hyphen_scan": "īp-să",
+          "hyphen_accent": "ip-sa",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ip",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "sa",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "īpsā",
+          "form_accent": "ipsa",
+          "hyphen_scan": "īp-sā",
+          "hyphen_accent": "ip-sa",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ip",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "sa",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "qu[ae]",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "qu[āe]",
+          "form_accent": "quæ",
+          "hyphen_scan": "qu[āe]",
+          "hyphen_accent": "quæ",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "qu[ae]",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "illos",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllōs",
+          "form_accent": "illos",
+          "hyphen_scan": "īl-lōs",
+          "hyphen_accent": "il-los",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "il",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "los",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "pepererat",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pĕpĕrĕrăt",
+          "form_accent": "pepérerat",
+          "hyphen_scan": "pĕ-pĕ-rĕ-răt",
+          "hyphen_accent": "pe-pé-re-rat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pe",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "pe",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "re",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "rat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "verse": "ego illos non vidi, ne quis vostrum censeat.",
+  "collatinus_accentuate": "ego illos non vidi ne quis vostrum cénseat",
+  "collatinus_scan": "ĕg[o] īllōs nōn vīdī nē quīs vōstrūm cēnsĕăt",
+  "word_count": 8,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "eg[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕg[o]",
+          "form_accent": "ego"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "illos",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllōs",
+          "form_accent": "illos"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "non",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "vidi",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vīdī",
+          "form_accent": "vidi"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ne",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nē",
+          "form_accent": "ne"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "quis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quīs",
+          "form_accent": "quis"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "vostrum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōstrūm",
+          "form_accent": "vostrum"
+        }
+      ]
+    },
+    {
+      "word_number": 8,
+      "text": "censeat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cēnsĕăt",
+          "form_accent": "cénseat"
+        }
+      ]
+    }
+  ]
+}

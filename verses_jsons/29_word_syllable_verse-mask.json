@@ -1,0 +1,872 @@
+{
+  "verse": "Tarenti ludi forte erant, cum illuc venit.",
+  "collatinus_accentuate": "Tarénti ludi forte erant cum illuc venit",
+  "collatinus_scan": "Tărēntī lūdī fōrt[e] ĕrānt c[um] īllūc vĕnĭt (vēnĭt vēnīt)",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Tarenti",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Tărēntī",
+          "form_accent": "Tarénti",
+          "hyphen_scan": "Tă-rēn-tī",
+          "hyphen_accent": "Ta-rén-ti",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Ta",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ren",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ti",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ludi",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "lūdī",
+          "form_accent": "ludi",
+          "hyphen_scan": "lū-dī",
+          "hyphen_accent": "lu-di",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "lu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "di",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "fort[e]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fōrt[e]",
+          "form_accent": "forte",
+          "hyphen_scan": "fōr-t[e]",
+          "hyphen_accent": "for-te",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "for",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "t[e]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "erant",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕrānt",
+          "form_accent": "erant",
+          "hyphen_scan": "ĕ-rānt",
+          "hyphen_accent": "e-rant",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "e",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "rant",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "c[um]",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "c[um]",
+          "form_accent": "cum",
+          "hyphen_scan": "c[um]",
+          "hyphen_accent": "cum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "c[um]",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "illuc",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūc",
+          "form_accent": "illuc",
+          "hyphen_scan": "īl-lūc",
+          "hyphen_accent": "il-luc",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "il",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "luc",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "venit",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vĕnĭt",
+          "form_accent": "venit",
+          "hyphen_scan": "vĕ-nĭt",
+          "hyphen_accent": "ve-nit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ve",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nit",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "vēnĭt",
+          "form_accent": "venit",
+          "hyphen_scan": "vē-nĭt",
+          "hyphen_accent": "ve-nit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nit",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "vēnīt",
+          "form_accent": "venit",
+          "hyphen_scan": "vē-nīt",
+          "hyphen_accent": "ve-nit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nit",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 12,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "slllllsslsllss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          11,
+          13
+        ],
+        "hiatus_after": [
+          7,
+          10
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "slllllsslsllls",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          11,
+          13
+        ],
+        "hiatus_after": [
+          7,
+          10
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 2
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 3,
+        "prosodic_mask": "slllllsslsllll",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          11,
+          13
+        ],
+        "hiatus_after": [
+          7,
+          10
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 3
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 4,
+        "prosodic_mask": "slllllsslllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          7
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 5,
+        "prosodic_mask": "slllllsslllls",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          7
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 2
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 6,
+        "prosodic_mask": "slllllsslllll",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          7
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 3
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 7,
+        "prosodic_mask": "slllllslsllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          9
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 8,
+        "prosodic_mask": "slllllslsllls",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          9
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 2
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 9,
+        "prosodic_mask": "slllllslsllll",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          9
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 3
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 10,
+        "prosodic_mask": "slllllslllss",
+        "syllable_count": 12,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 11,
+        "prosodic_mask": "slllllslllls",
+        "syllable_count": 12,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 2
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 12,
+        "prosodic_mask": "slllllslllll",
+        "syllable_count": 12,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          },
+          {
+            "word": 7,
+            "variant": 3
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

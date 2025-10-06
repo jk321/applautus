@@ -1,0 +1,74 @@
+{
+  "verse": "illum reliquit alterum apud matrem domi.",
+  "collatinus_accentuate": "illum relíquit álterum apud matrem domi",
+  "collatinus_scan": "īllūm rĕlīquĭt āltĕr[um] ăpūd mātrēm dŏmī",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "illum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūm",
+          "form_accent": "illum"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "reliquit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "rĕlīquĭt",
+          "form_accent": "relíquit"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "alter[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āltĕr[um]",
+          "form_accent": "álterum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "apud",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ăpūd",
+          "form_accent": "apud"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "matrem",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātrēm",
+          "form_accent": "matrem"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "domi",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dŏmī",
+          "form_accent": "domi"
+        }
+      ]
+    }
+  ]
+}

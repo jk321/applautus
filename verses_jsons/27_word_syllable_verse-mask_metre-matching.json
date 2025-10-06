@@ -1,0 +1,422 @@
+{
+  "verse": "Tarentum avexit secum ad mercatum simul,",
+  "collatinus_accentuate": "Taréntum avéxit secum ad mercátum simul",
+  "collatinus_scan": "Tărēnt[um] āvēxīt sēc[um] ād mērcātūm sĭmŭl",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "Tarent[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Tărēnt[um]",
+          "form_accent": "Taréntum",
+          "hyphen_scan": "Tă-rēn-t[um]",
+          "hyphen_accent": "Ta-rén-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Ta",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ren",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "t[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "avexit",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āvēxīt",
+          "form_accent": "avéxit",
+          "hyphen_scan": "ā-vē-xīt",
+          "hyphen_accent": "a-vé-xit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "xit",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "sec[um]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sēc[um]",
+          "form_accent": "secum",
+          "hyphen_scan": "sēc-[um]",
+          "hyphen_accent": "se-cum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "sec",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ad",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad",
+          "hyphen_scan": "ād",
+          "hyphen_accent": "ad",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ad",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mercatum",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcātūm",
+          "form_accent": "mercátum",
+          "hyphen_scan": "mēr-cā-tūm",
+          "hyphen_accent": "mer-cá-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mer",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ca",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "simul",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĭmŭl",
+          "form_accent": "simul",
+          "hyphen_scan": "sĭ-mŭl",
+          "hyphen_accent": "si-mul",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mul",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 4,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "slsllllsllllss",
+        "syllable_count": 14,
+        "accented_syllables": [
+          2,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "hiatus_after": [
+          3,
+          8
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "slsllllllllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          5,
+          7,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          3
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 3,
+        "prosodic_mask": "slllllsllllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          7
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 4,
+        "prosodic_mask": "slllllllllss",
+        "syllable_count": 12,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          7,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accent_ictus_intersection": 3
+      }
+    ]
+  }
+}

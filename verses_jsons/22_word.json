@@ -1,0 +1,96 @@
+{
+  "verse": "ut quidem ille dixit mihi, qui pueros viderat:",
+  "collatinus_accentuate": "ut quidem ille dixit mihi qui púeros víderat",
+  "collatinus_scan": "ūt quĭd[em] īllĕ dīxīt mĭhĭ quī pŭĕrōs vīdĕrăt",
+  "word_count": 8,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ut",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ūt",
+          "form_accent": "ut"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "quid[em]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quĭd[em]",
+          "form_accent": "quidem"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "ille",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllĕ",
+          "form_accent": "ille"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "dixit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīxīt",
+          "form_accent": "dixit"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mihi",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mĭhĭ",
+          "form_accent": "mihi"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "qui",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quī",
+          "form_accent": "qui"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "pueros",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕrōs",
+          "form_accent": "púeros"
+        }
+      ]
+    },
+    {
+      "word_number": 8,
+      "text": "viderat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vīdĕrăt",
+          "form_accent": "víderat"
+        }
+      ]
+    }
+  ]
+}

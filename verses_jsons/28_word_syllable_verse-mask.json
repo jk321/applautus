@@ -1,0 +1,319 @@
+{
+  "verse": "illum reliquit alterum apud matrem domi.",
+  "collatinus_accentuate": "illum relíquit álterum apud matrem domi",
+  "collatinus_scan": "īllūm rĕlīquĭt āltĕr[um] ăpūd mātrēm dŏmī",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "illum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūm",
+          "form_accent": "illum",
+          "hyphen_scan": "īl-lūm",
+          "hyphen_accent": "il-lum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "il",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "lum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "reliquit",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "rĕlīquĭt",
+          "form_accent": "relíquit",
+          "hyphen_scan": "rĕ-lī-quĭt",
+          "hyphen_accent": "re-lí-quit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "re",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "li",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "quit",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "alter[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āltĕr[um]",
+          "form_accent": "álterum",
+          "hyphen_scan": "āl-tĕr-[um]",
+          "hyphen_accent": "ál-te-rum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "al",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "apud",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ăpūd",
+          "form_accent": "apud",
+          "hyphen_scan": "ă-pūd",
+          "hyphen_accent": "a-pud",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "pud",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "matrem",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātrēm",
+          "form_accent": "matrem",
+          "hyphen_scan": "māt-rēm",
+          "hyphen_accent": "mat-rem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mat",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "rem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "domi",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dŏmī",
+          "form_accent": "domi",
+          "hyphen_scan": "dŏ-mī",
+          "hyphen_accent": "do-mi",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "do",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mi",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 2,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "llslslssslllsl",
+        "syllable_count": 14,
+        "accented_syllables": [
+          1,
+          4,
+          6,
+          9,
+          11,
+          13
+        ],
+        "hiatus_after": [
+          8
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "llslslsslllsl",
+        "syllable_count": 13,
+        "accented_syllables": [
+          1,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

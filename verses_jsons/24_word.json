@@ -1,0 +1,74 @@
+{
+  "verse": "postquam iam pueri septuennes sunt, pater",
+  "collatinus_accentuate": "postquam jam púeri septuénnes sunt pater",
+  "collatinus_scan": "pōstquām jām pŭĕrī sēptŭēnnēs sūnt pătĕr",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "postquam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pōstquām",
+          "form_accent": "postquam"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "jam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "jām",
+          "form_accent": "jam"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "pueri",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕrī",
+          "form_accent": "púeri"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "septuennes",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sēptŭēnnēs",
+          "form_accent": "septuénnes"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "sunt",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sūnt",
+          "form_accent": "sunt"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "pater",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pătĕr",
+          "form_accent": "pater"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "verse": "imponit geminum alterum in navem pater,",
+  "collatinus_accentuate": "impónit géminum álterum in navem pater",
+  "collatinus_scan": "īmpōnīt gĕmĭn[um] āltĕr[um] īn nāvēm pătĕr",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "imponit",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īmpōnīt",
+          "form_accent": "impónit",
+          "hyphen_scan": "īm-pō-nīt",
+          "hyphen_accent": "im-pó-nit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "im",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "po",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nit",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "gemin[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "gĕmĭn[um]",
+          "form_accent": "géminum",
+          "hyphen_scan": "gĕ-mĭn-[um]",
+          "hyphen_accent": "gé-mi-num",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ge",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "min",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "alter[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āltĕr[um]",
+          "form_accent": "álterum",
+          "hyphen_scan": "āl-tĕr-[um]",
+          "hyphen_accent": "ál-te-rum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "al",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "in",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in",
+          "hyphen_scan": "īn",
+          "hyphen_accent": "in",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "in",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "navem",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nāvēm",
+          "form_accent": "navem",
+          "hyphen_scan": "nā-vēm",
+          "hyphen_accent": "na-vem",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "na",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "vem",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "pater",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pătĕr",
+          "form_accent": "pater",
+          "hyphen_scan": "pă-tĕr",
+          "hyphen_accent": "pa-ter",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pa",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "verse": "neque adeo mater ipsa quae illos pepererat,",
+  "collatinus_accentuate": "neque ádeo mater ipsa quæ illos pepérerat",
+  "collatinus_scan": "nĕqu[e] ădĕō (ădĕō̆) mātĕr īpsă (īpsā) qu[āe] īllōs pĕpĕrĕrăt",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "nequ[e]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nĕqu[e]",
+          "form_accent": "neque"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "adeo",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ădĕō",
+          "form_accent": "ádeo"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ădĕō",
+          "form_accent": "ádeo"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "ădĕŏ",
+          "form_accent": "ádeo"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "mater",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātĕr",
+          "form_accent": "mater"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ipsa",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īpsă",
+          "form_accent": "ipsa"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "īpsā",
+          "form_accent": "ipsa"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "qu[ae]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "qu[āe]",
+          "form_accent": "quæ"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "illos",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllōs",
+          "form_accent": "illos"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "pepererat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pĕpĕrĕrăt",
+          "form_accent": "pepérerat"
+        }
+      ]
+    }
+  ]
+}

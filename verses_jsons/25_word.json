@@ -1,0 +1,63 @@
+{
+  "verse": "oneravit navem magnam multis mercibus;",
+  "collatinus_accentuate": "onerávit navem magnam multis mércibus",
+  "collatinus_scan": "ŏnĕrāvīt nāvēm māgnām mūltīs mērcĭbŭs",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "oneravit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŏnĕrāvīt",
+          "form_accent": "onerávit"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "navem",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nāvēm",
+          "form_accent": "navem"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "magnam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "māgnām",
+          "form_accent": "magnam"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "multis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mūltīs",
+          "form_accent": "multis"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mercibus",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcĭbŭs",
+          "form_accent": "mércibus"
+        }
+      ]
+    }
+  ]
+}
