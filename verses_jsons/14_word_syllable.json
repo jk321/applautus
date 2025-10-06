@@ -1,0 +1,214 @@
+{
+  "verse": "nunc argumentum vobis demensum dabo,",
+  "collatinus_accentuate": "nunc arguméntum vobis deménsum dabo",
+  "collatinus_scan": "nūnc ārgūmēntūm vōbīs dēmēnsūm dăbō̆",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "nunc",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūnc",
+          "form_accent": "nunc",
+          "hyphen_scan": "nūnc",
+          "hyphen_accent": "nunc",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nunc",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "argumentum",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēntūm",
+          "form_accent": "arguméntum",
+          "hyphen_scan": "ār-gūmēn-tūm",
+          "hyphen_accent": "ar-gumén-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ar",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gumen",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis",
+          "hyphen_scan": "vō-bīs",
+          "hyphen_accent": "vo-bis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vo",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "demensum",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dēmēnsūm",
+          "form_accent": "deménsum",
+          "hyphen_scan": "dē-mēn-sūm",
+          "hyphen_accent": "de-mén-sum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "de",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "men",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "sum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "dabo",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dăbō",
+          "form_accent": "dabo",
+          "hyphen_scan": "dă-bō",
+          "hyphen_accent": "da-bo",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "da",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bo",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "dăbŏ",
+          "form_accent": "dabo",
+          "hyphen_scan": "dă-bŏ",
+          "hyphen_accent": "da-bo",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "da",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bo",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

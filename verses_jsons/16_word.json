@@ -1,0 +1,74 @@
+{
+  "verse": "tantum ad narrandum argumentum adest benignitas.",
+  "collatinus_accentuate": "tantum ad narrándum arguméntum adest benígnitas",
+  "collatinus_scan": "tānt[um] ād nārrānd[um] ārgūmēnt[um] ădēst bĕnīgnĭtās",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "tant[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "tānt[um]",
+          "form_accent": "tantum"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ad",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "narrand[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nārrānd[um]",
+          "form_accent": "narrándum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "argument[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēnt[um]",
+          "form_accent": "arguméntum"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "adest",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ădēst",
+          "form_accent": "adest"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "benignitas",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "bĕnīgnĭtās",
+          "form_accent": "benígnitas"
+        }
+      ]
+    }
+  ]
+}

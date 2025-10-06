@@ -1,0 +1,228 @@
+{
+  "verse": "mercator quidam fuit Syracusis senex,",
+  "collatinus_accentuate": "mercátor quidam fuit Syracúsis senex",
+  "collatinus_scan": "mērcātōr quīdām fŭīt Sўrācūsīs sĕnēx",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mercator",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcātōr",
+          "form_accent": "mercátor",
+          "hyphen_scan": "mēr-cā-tōr",
+          "hyphen_accent": "mer-cá-tor",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mer",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ca",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tor",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "quidam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quīdām",
+          "form_accent": "quidam",
+          "hyphen_scan": "quī-dām",
+          "hyphen_accent": "qui-dam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "qui",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "dam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "fuit",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fŭīt",
+          "form_accent": "fuit",
+          "hyphen_scan": "fŭīt",
+          "hyphen_accent": "fuit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "fuit",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "Sуracusis",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Sўrācūsīs",
+          "form_accent": "Syracúsis",
+          "hyphen_scan": "Sўrā-cū-sīs",
+          "hyphen_accent": "Syra-cú-sis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Sуra",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cu",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "sis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "senex",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĕnēx",
+          "form_accent": "senex",
+          "hyphen_scan": "sĕ-nēx",
+          "hyphen_accent": "se-nex",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "se",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nex",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 1,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "lllllllllsl",
+        "syllable_count": 11,
+        "accented_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

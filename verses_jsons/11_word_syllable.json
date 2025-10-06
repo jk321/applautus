@@ -1,0 +1,230 @@
+{
+  "verse": "atque adeo hoc argumentum graecissat, tamen",
+  "collatinus_accentuate": "atque ádeo hoc arguméntum græcíssat tamen",
+  "collatinus_scan": "ātqu[e] ădĕ[o] hōc ārgūmēntūm grāecīssāt tămĕn",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "atqu[e]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ātqu[e]",
+          "form_accent": "atque",
+          "hyphen_scan": "āt-qu[e]",
+          "hyphen_accent": "at-que",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "at",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "qu[e]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ade[o]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ădĕ[o]",
+          "form_accent": "ádeo",
+          "hyphen_scan": "ă-dĕ-[o]",
+          "hyphen_accent": "á-de-o",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[o]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "hoc",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōc",
+          "form_accent": "hoc",
+          "hyphen_scan": "hōc",
+          "hyphen_accent": "hoc",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "hoc",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "argumentum",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēntūm",
+          "form_accent": "arguméntum",
+          "hyphen_scan": "ār-gūmēn-tūm",
+          "hyphen_accent": "ar-gumén-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ar",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gumen",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "graecissat",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "grāecīssāt",
+          "form_accent": "græcíssat",
+          "hyphen_scan": "grāe-cīs-sāt",
+          "hyphen_accent": "græcís-sat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "grae",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cis",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "sat",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "tamen",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "tămĕn",
+          "form_accent": "tamen",
+          "hyphen_scan": "tă-mĕn",
+          "hyphen_accent": "ta-men",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ta",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "men",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

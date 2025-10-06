@@ -1,0 +1,74 @@
+{
+  "verse": "atque hoc poetae faciunt in comoediis:",
+  "collatinus_accentuate": "atque hoc poétæ fáciunt in comœ́diis",
+  "collatinus_scan": "ātqu[e] hōc pŏētāe făcĭūnt īn cōmōedĭīs",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "atqu[e]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ātqu[e]",
+          "form_accent": "atque"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "hoc",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōc",
+          "form_accent": "hoc"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "poetae",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŏētāe",
+          "form_accent": "poétæ"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "faciunt",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "făcĭūnt",
+          "form_accent": "fáciunt"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "in",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "comoediis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōmōedĭīs",
+          "form_accent": "comœ́diis"
+        }
+      ]
+    }
+  ]
+}

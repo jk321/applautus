@@ -1,0 +1,95 @@
+{
+  "verse": "non modio, neque trimodio, verum ipso horreo:",
+  "collatinus_accentuate": "non módio neque trimódio verum ipso hórreo",
+  "collatinus_scan": "nōn mŏdĭō nĕquĕ trĭmŏdĭō vēr[um] īps[o] hōrrĕō̆ (hōrrĕō)",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "non",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "modio",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mŏdĭō",
+          "form_accent": "módio"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "neque",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nĕquĕ",
+          "form_accent": "neque"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "trimodio",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "trĭmŏdĭō",
+          "form_accent": "trimódio"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ver[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vēr[um]",
+          "form_accent": "verum"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "ips[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īps[o]",
+          "form_accent": "ipso"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "horreo",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōrrĕō",
+          "form_accent": "hórreo"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "hōrrĕŏ",
+          "form_accent": "hórreo"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "hōrrĕō",
+          "form_accent": "hórreo"
+        }
+      ]
+    }
+  ]
+}

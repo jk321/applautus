@@ -1,0 +1,100 @@
+{
+  "verse": "ita forma simili pueri, ut mater sua",
+  "collatinus_accentuate": "ita forma símili púeri ut mater sua",
+  "collatinus_scan": "ĭtă (ĭtā) fōrmă (fōrmā) sĭmĭlī pŭĕr[i] ūt mātēr sŭă (sŭā)",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ita",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĭtă",
+          "form_accent": "ita"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ĭtā",
+          "form_accent": "ita"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "forma",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fōrmă",
+          "form_accent": "forma"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "fōrmā",
+          "form_accent": "forma"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "simili",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĭmĭlī",
+          "form_accent": "símili"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "puer[i]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕr[i]",
+          "form_accent": "púeri"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ut",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ūt",
+          "form_accent": "ut"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "mater",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātēr",
+          "form_accent": "mater"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "sua",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sŭă",
+          "form_accent": "sua"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "sŭā",
+          "form_accent": "sua"
+        }
+      ]
+    }
+  ]
+}

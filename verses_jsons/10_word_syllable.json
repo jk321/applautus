@@ -1,0 +1,309 @@
+{
+  "verse": "ego nusquam dicam nisi ubi factum dicitur.",
+  "collatinus_accentuate": "ego nusquam dicam nisi ubi factum dícitur",
+  "collatinus_scan": "ĕgō̆ nūsquām dīcām (dĭcām) nĭs[i] ŭbĭ fāctūm dīcĭtŭr",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ego",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕgō",
+          "form_accent": "ego",
+          "hyphen_scan": "ĕ-gō",
+          "hyphen_accent": "e-go",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "e",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "go",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ĕgŏ",
+          "form_accent": "ego",
+          "hyphen_scan": "ĕ-gŏ",
+          "hyphen_accent": "e-go",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "e",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "go",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "nusquam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūsquām",
+          "form_accent": "nusquam",
+          "hyphen_scan": "nūs-quām",
+          "hyphen_accent": "nus-quam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nus",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "quam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "dicam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīcām",
+          "form_accent": "dicam",
+          "hyphen_scan": "dī-cām",
+          "hyphen_accent": "di-cam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "di",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "dĭcām",
+          "form_accent": "dicam",
+          "hyphen_scan": "dĭ-cām",
+          "hyphen_accent": "di-cam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "di",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "nis[i]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nĭs[i]",
+          "form_accent": "nisi",
+          "hyphen_scan": "nĭs-[i]",
+          "hyphen_accent": "ni-si",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nis",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "[i]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ubi",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŭbĭ",
+          "form_accent": "ubi",
+          "hyphen_scan": "ŭ-bĭ",
+          "hyphen_accent": "u-bi",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "u",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bi",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "factum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fāctūm",
+          "form_accent": "factum",
+          "hyphen_scan": "fāc-tūm",
+          "hyphen_accent": "fac-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "fac",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "dicitur",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīcĭtŭr",
+          "form_accent": "dícitur",
+          "hyphen_scan": "dī-cĭ-tŭr",
+          "hyphen_accent": "dí-ci-tur",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "di",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "tur",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "verse": "mercator quidam fuit Syracusis senex,",
+  "collatinus_accentuate": "mercátor quidam fuit Syracúsis senex",
+  "collatinus_scan": "mērcātōr quīdām fŭīt Sўrācūsīs sĕnēx",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "mercator",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mērcātōr",
+          "form_accent": "mercátor"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "quidam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quīdām",
+          "form_accent": "quidam"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "fuit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fŭīt",
+          "form_accent": "fuit"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "Sуracusis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Sўrācūsīs",
+          "form_accent": "Syracúsis"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "senex",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĕnēx",
+          "form_accent": "senex"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "verse": "non internosse posset quae mammam dabat,",
+  "collatinus_accentuate": "non internosse posset quæ mammam dabat",
+  "collatinus_scan": "nōn īntērnōsse pōssēt quāe māmmām dăbăt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "non",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non",
+          "hyphen_scan": "nōn",
+          "hyphen_accent": "non",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "non",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "internosse",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īntērnōsse",
+          "form_accent": "internosse",
+          "hyphen_scan": "īn-tēr-nōs-se",
+          "hyphen_accent": "in-ter-nos-se",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "in",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nos",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "se",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "posset",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pōssēt",
+          "form_accent": "posset",
+          "hyphen_scan": "pōs-sēt",
+          "hyphen_accent": "pos-set",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pos",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "set",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "quae",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quāe",
+          "form_accent": "quæ",
+          "hyphen_scan": "quāe",
+          "hyphen_accent": "quæ",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "quae",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mammam",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "māmmām",
+          "form_accent": "mammam",
+          "hyphen_scan": "mām-mām",
+          "hyphen_accent": "mam-mam",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "mam",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mam",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "dabat",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dăbăt",
+          "form_accent": "dabat",
+          "hyphen_scan": "dă-băt",
+          "hyphen_accent": "da-bat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "da",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 1,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "llllslllllss",
+        "syllable_count": 12,
+        "accented_syllables": [
+          1,
+          2,
+          6,
+          8,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "accent_ictus_intersection": 3
+      }
+    ]
+  }
+}

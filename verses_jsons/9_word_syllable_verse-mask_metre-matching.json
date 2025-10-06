@@ -1,0 +1,451 @@
+{
+  "verse": "quo illud vobis graecum videatur magis;",
+  "collatinus_accentuate": "quo illud vobis Græcum videátur magis",
+  "collatinus_scan": "qu[o] īllūd vōbīs Grāecūm vĭdĕātūr măgĭs (măgīs)",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "qu[o]",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "qu[o]",
+          "form_accent": "quo",
+          "hyphen_scan": "qu[o]",
+          "hyphen_accent": "quo",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "qu[o]",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "illud",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūd",
+          "form_accent": "illud",
+          "hyphen_scan": "īl-lūd",
+          "hyphen_accent": "il-lud",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "il",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "lud",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis",
+          "hyphen_scan": "vō-bīs",
+          "hyphen_accent": "vo-bis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vo",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "bis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "Graecum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Grāecūm",
+          "form_accent": "Græcum",
+          "hyphen_scan": "Grāe-cūm",
+          "hyphen_accent": "Græcum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "Grae",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "cum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "videatur",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vĭdĕātūr",
+          "form_accent": "videátur",
+          "hyphen_scan": "vĭ-dĕ-ā-tūr",
+          "hyphen_accent": "vi-de-á-tur",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "vi",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "de",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "a",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "tur",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "magis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "măgĭs",
+          "form_accent": "magis",
+          "hyphen_scan": "mă-gĭs",
+          "hyphen_accent": "ma-gis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ma",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gis",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "măgīs",
+          "form_accent": "magis",
+          "hyphen_scan": "mă-gīs",
+          "hyphen_accent": "ma-gis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ma",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prosodic_masks": {
+    "mask_count": 4,
+    "masks": [
+      {
+        "mask_number": 1,
+        "prosodic_mask": "sllllllssllss",
+        "syllable_count": 13,
+        "accented_syllables": [
+          1,
+          2,
+          4,
+          6,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          1
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          6,
+          8,
+          11,
+          13
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          9,
+          11
+        ],
+        "accent_ictus_intersection": 3
+      },
+      {
+        "mask_number": 2,
+        "prosodic_mask": "sllllllssllsl",
+        "syllable_count": 13,
+        "accented_syllables": [
+          1,
+          2,
+          4,
+          6,
+          10,
+          12
+        ],
+        "hiatus_after": [
+          1
+        ],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 2
+          }
+        ],
+        "verse_type": "senarius",
+        "icted_syllables": [
+          2,
+          4,
+          6,
+          8,
+          11,
+          13
+        ],
+        "foot_boundary_after": [
+          2,
+          4,
+          6,
+          9,
+          11
+        ],
+        "accent_ictus_intersection": 3
+      },
+      {
+        "mask_number": 3,
+        "prosodic_mask": "llllllssllss",
+        "syllable_count": 12,
+        "accented_syllables": [
+          1,
+          3,
+          5,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 1
+          }
+        ],
+        "verse_type": null
+      },
+      {
+        "mask_number": 4,
+        "prosodic_mask": "llllllssllsl",
+        "syllable_count": 12,
+        "accented_syllables": [
+          1,
+          3,
+          5,
+          9,
+          11
+        ],
+        "hiatus_after": [],
+        "word-variant": [
+          {
+            "word": 1,
+            "variant": 1
+          },
+          {
+            "word": 2,
+            "variant": 1
+          },
+          {
+            "word": 3,
+            "variant": 1
+          },
+          {
+            "word": 4,
+            "variant": 1
+          },
+          {
+            "word": 5,
+            "variant": 1
+          },
+          {
+            "word": 6,
+            "variant": 2
+          }
+        ],
+        "verse_type": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "verse": "atque hoc poetae faciunt in comoediis:",
+  "collatinus_accentuate": "atque hoc poétæ fáciunt in comœ́diis",
+  "collatinus_scan": "ātqu[e] hōc pŏētāe făcĭūnt īn cōmōedĭīs",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "atqu[e]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ātqu[e]",
+          "form_accent": "atque",
+          "hyphen_scan": "āt-qu[e]",
+          "hyphen_accent": "at-que",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "at",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "qu[e]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "hoc",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōc",
+          "form_accent": "hoc",
+          "hyphen_scan": "hōc",
+          "hyphen_accent": "hoc",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "hoc",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "poetae",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŏētāe",
+          "form_accent": "poétæ",
+          "hyphen_scan": "pŏē-tāe",
+          "hyphen_accent": "poétæ",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "poe",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tae",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "faciunt",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "făcĭūnt",
+          "form_accent": "fáciunt",
+          "hyphen_scan": "fă-cĭ-ūnt",
+          "hyphen_accent": "fá-ci-unt",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "fa",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "unt",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "in",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īn",
+          "form_accent": "in",
+          "hyphen_scan": "īn",
+          "hyphen_accent": "in",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "in",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "comoediis",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "cōmōedĭīs",
+          "form_accent": "comœ́diis",
+          "hyphen_scan": "cō-mōe-dĭ-īs",
+          "hyphen_accent": "com-œ́di-is",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "co",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "moe",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "di",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "is",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

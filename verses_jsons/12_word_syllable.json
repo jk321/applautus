@@ -1,0 +1,1134 @@
+{
+  "verse": "non atticissat, verum sicilicissitat.",
+  "collatinus_accentuate": "non atticíssat verum sicilicíssitat",
+  "collatinus_scan": "nōn āttĭcīssāt vērūm sī̆cī̆lī̆cīssī̆tăt",
+  "word_count": 4,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "non",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non",
+          "hyphen_scan": "nōn",
+          "hyphen_accent": "non",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "non",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "atticissat",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āttĭcīssāt",
+          "form_accent": "atticíssat",
+          "hyphen_scan": "āt-tĭ-cīs-sāt",
+          "hyphen_accent": "at-ti-cís-sat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "at",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ti",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "sat",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "verum",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vērūm",
+          "form_accent": "verum",
+          "hyphen_scan": "vē-rūm",
+          "hyphen_accent": "ve-rum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ve",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "rum",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "sicilicissitat",
+      "syllable_count": 6,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sīcīlīcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cī-lī-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "sīcīlīcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cī-lī-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "sīcīlĭcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cī-lĭ-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 4,
+          "form_scan": "sīcīlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cī-lĭ-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 5,
+          "form_scan": "sīcĭlīcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cĭ-lī-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 6,
+          "form_scan": "sīcĭlīcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cĭ-lī-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 7,
+          "form_scan": "sīcĭlĭcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cĭ-lĭ-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 8,
+          "form_scan": "sīcĭlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sī-cĭ-lĭ-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 9,
+          "form_scan": "sĭcīlīcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cī-lī-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 10,
+          "form_scan": "sĭcīlīcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cī-lī-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 11,
+          "form_scan": "sĭcīlĭcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cī-lĭ-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 12,
+          "form_scan": "sĭcīlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cī-lĭ-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 13,
+          "form_scan": "sĭcĭlīcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cĭ-lī-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 14,
+          "form_scan": "sĭcĭlīcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cĭ-lī-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 15,
+          "form_scan": "sĭcĭlĭcīssītăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cĭ-lĭ-cīs-sī-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": true,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 16,
+          "form_scan": "sĭcĭlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat",
+          "hyphen_scan": "sĭ-cĭ-lĭ-cīs-sĭ-tăt",
+          "hyphen_accent": "si-ci-li-cís-si-tat",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ci",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "cis",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "si",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 6,
+              "text": "tat",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

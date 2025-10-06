@@ -1,0 +1,239 @@
+{
+  "verse": "tantum ad narrandum argumentum adest benignitas.",
+  "collatinus_accentuate": "tantum ad narrándum arguméntum adest benígnitas",
+  "collatinus_scan": "tānt[um] ād nārrānd[um] ārgūmēnt[um] ădēst bĕnīgnĭtās",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "tant[um]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "tānt[um]",
+          "form_accent": "tantum",
+          "hyphen_scan": "tān-t[um]",
+          "hyphen_accent": "tan-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "tan",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "t[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "ad",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ād",
+          "form_accent": "ad",
+          "hyphen_scan": "ād",
+          "hyphen_accent": "ad",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ad",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "narrand[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nārrānd[um]",
+          "form_accent": "narrándum",
+          "hyphen_scan": "nār-rān-d[um]",
+          "hyphen_accent": "nar-rán-dum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "nar",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ran",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "d[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "argument[um]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēnt[um]",
+          "form_accent": "arguméntum",
+          "hyphen_scan": "ār-gūmēn-t[um]",
+          "hyphen_accent": "ar-gumén-tum",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ar",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gumen",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "t[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "adest",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ădēst",
+          "form_accent": "adest",
+          "hyphen_scan": "ă-dēst",
+          "hyphen_accent": "a-dest",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "a",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "dest",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "benignitas",
+      "syllable_count": 4,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "bĕnīgnĭtās",
+          "form_accent": "benígnitas",
+          "hyphen_scan": "bĕ-nīg-nĭ-tās",
+          "hyphen_accent": "be-níg-ni-tas",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "be",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nig",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "ni",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "tas",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

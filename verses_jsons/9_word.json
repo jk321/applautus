@@ -1,0 +1,79 @@
+{
+  "verse": "quo illud vobis graecum videatur magis;",
+  "collatinus_accentuate": "quo illud vobis Græcum videátur magis",
+  "collatinus_scan": "qu[o] īllūd vōbīs Grāecūm vĭdĕātūr măgĭs (măgīs)",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "qu[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "qu[o]",
+          "form_accent": "quo"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "illud",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īllūd",
+          "form_accent": "illud"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "Graecum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Grāecūm",
+          "form_accent": "Græcum"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "videatur",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vĭdĕātūr",
+          "form_accent": "videátur"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "magis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "măgĭs",
+          "form_accent": "magis"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "măgīs",
+          "form_accent": "magis"
+        }
+      ]
+    }
+  ]
+}

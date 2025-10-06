@@ -1,0 +1,336 @@
+{
+  "verse": "ita forma simili pueri, ut mater sua",
+  "collatinus_accentuate": "ita forma símili púeri ut mater sua",
+  "collatinus_scan": "ĭtă (ĭtā) fōrmă (fōrmā) sĭmĭlī pŭĕr[i] ūt mātēr sŭă (sŭā)",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ita",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĭtă",
+          "form_accent": "ita",
+          "hyphen_scan": "ĭ-tă",
+          "hyphen_accent": "i-ta",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "i",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ta",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ĭtā",
+          "form_accent": "ita",
+          "hyphen_scan": "ĭ-tā",
+          "hyphen_accent": "i-ta",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "i",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ta",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "forma",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fōrmă",
+          "form_accent": "forma",
+          "hyphen_scan": "fōr-mă",
+          "hyphen_accent": "for-ma",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "for",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ma",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "fōrmā",
+          "form_accent": "forma",
+          "hyphen_scan": "fōr-mā",
+          "hyphen_accent": "for-ma",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "for",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ma",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "simili",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sĭmĭlī",
+          "form_accent": "símili",
+          "hyphen_scan": "sĭ-mĭ-lī",
+          "hyphen_accent": "sí-mi-li",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "si",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "mi",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "li",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "puer[i]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pŭĕr[i]",
+          "form_accent": "púeri",
+          "hyphen_scan": "pŭ-ĕr-[i]",
+          "hyphen_accent": "pú-e-ri",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "pu",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "er",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "[i]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ut",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ūt",
+          "form_accent": "ut",
+          "hyphen_scan": "ūt",
+          "hyphen_accent": "ut",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ut",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "mater",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "mātēr",
+          "form_accent": "mater",
+          "hyphen_scan": "mā-tēr",
+          "hyphen_accent": "ma-ter",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ma",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "ter",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "sua",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sŭă",
+          "form_accent": "sua",
+          "hyphen_scan": "sŭ-ă",
+          "hyphen_accent": "su-a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "su",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "a",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "sŭā",
+          "form_accent": "sua",
+          "hyphen_scan": "sŭ-ā",
+          "hyphen_accent": "su-a",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "su",
+              "length": false,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "a",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

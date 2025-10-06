@@ -1,0 +1,89 @@
+{
+  "verse": "ei sunt nati filii gemini duo,",
+  "collatinus_accentuate": "ei sunt nati fílii gémini duo",
+  "collatinus_scan": "ĕī (ēī̆) sūnt nātī (nătī) fīlĭī gĕmĭnī dŭŏ",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ei",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕī",
+          "form_accent": "ei"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ēī",
+          "form_accent": "ei"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "ēĭ",
+          "form_accent": "ei"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "sunt",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sūnt",
+          "form_accent": "sunt"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "nati",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nātī",
+          "form_accent": "nati"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "nătī",
+          "form_accent": "nati"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "filii",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fīlĭī",
+          "form_accent": "fílii"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "gemini",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "gĕmĭnī",
+          "form_accent": "gémini"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "duo",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dŭŏ",
+          "form_accent": "duo"
+        }
+      ]
+    }
+  ]
+}

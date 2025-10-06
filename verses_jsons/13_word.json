@@ -1,0 +1,63 @@
+{
+  "verse": "huic argumento antelogium hoc fuit;",
+  "collatinus_accentuate": "huic arguménto antelógium hoc fuit",
+  "collatinus_scan": "hūic ārgūmēnt[o] āntĕlŏgĭ[um] hōc fŭĭt",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "huic",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hūic",
+          "form_accent": "huic"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "argument[o]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēnt[o]",
+          "form_accent": "arguménto"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "antelogi[um]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āntĕlŏgĭ[um]",
+          "form_accent": "antelógium"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "hoc",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōc",
+          "form_accent": "hoc"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "fuit",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fŭĭt",
+          "form_accent": "fuit"
+        }
+      ]
+    }
+  ]
+}

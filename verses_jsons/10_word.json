@@ -1,0 +1,95 @@
+{
+  "verse": "ego nusquam dicam nisi ubi factum dicitur.",
+  "collatinus_accentuate": "ego nusquam dicam nisi ubi factum dícitur",
+  "collatinus_scan": "ĕgō̆ nūsquām dīcām (dĭcām) nĭs[i] ŭbĭ fāctūm dīcĭtŭr",
+  "word_count": 7,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "ego",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ĕgō",
+          "form_accent": "ego"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "ĕgŏ",
+          "form_accent": "ego"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "nusquam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūsquām",
+          "form_accent": "nusquam"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "dicam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīcām",
+          "form_accent": "dicam"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "dĭcām",
+          "form_accent": "dicam"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "nis[i]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nĭs[i]",
+          "form_accent": "nisi"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "ubi",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ŭbĭ",
+          "form_accent": "ubi"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "factum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fāctūm",
+          "form_accent": "factum"
+        }
+      ]
+    },
+    {
+      "word_number": 7,
+      "text": "dicitur",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dīcĭtŭr",
+          "form_accent": "dícitur"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "verse": "omnis res gestas esse Athenis autumant,",
+  "collatinus_accentuate": "omnis res gestas esse Athénis áutumant",
+  "collatinus_scan": "ōmnīs rēs gēstās ēss[e] Ăthēnīs (Ā̆thēnīs) āutŭmānt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "omnis",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ōmnīs",
+          "form_accent": "omnis",
+          "hyphen_scan": "ōm-nīs",
+          "hyphen_accent": "om-nis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "om",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "nis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "res",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "rēs",
+          "form_accent": "res",
+          "hyphen_scan": "rēs",
+          "hyphen_accent": "res",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "res",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "gestas",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "gēstās",
+          "form_accent": "gestas",
+          "hyphen_scan": "gēs-tās",
+          "hyphen_accent": "ges-tas",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ges",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tas",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ess[e]",
+      "syllable_count": 2,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ēss[e]",
+          "form_accent": "esse",
+          "hyphen_scan": "ēs-s[e]",
+          "hyphen_accent": "es-se",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "es",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "s[e]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "Athenis",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Ăthēnīs",
+          "form_accent": "Athénis",
+          "hyphen_scan": "Ă-thē-nīs",
+          "hyphen_accent": "A-thé-nis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "A",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "the",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "Āthēnīs",
+          "form_accent": "Athénis",
+          "hyphen_scan": "Ā-thē-nīs",
+          "hyphen_accent": "A-thé-nis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "A",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "the",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "Ăthēnīs",
+          "form_accent": "Athénis",
+          "hyphen_scan": "Ă-thē-nīs",
+          "hyphen_accent": "A-thé-nis",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "A",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "the",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "nis",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "autumant",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āutŭmānt",
+          "form_accent": "áutumant",
+          "hyphen_scan": "āu-tŭ-mānt",
+          "hyphen_accent": "áu-tu-mant",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "au",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "tu",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "mant",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

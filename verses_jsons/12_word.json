@@ -1,0 +1,127 @@
+{
+  "verse": "non atticissat, verum sicilicissitat.",
+  "collatinus_accentuate": "non atticíssat verum sicilicíssitat",
+  "collatinus_scan": "nōn āttĭcīssāt vērūm sī̆cī̆lī̆cīssī̆tăt",
+  "word_count": 4,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "non",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "atticissat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āttĭcīssāt",
+          "form_accent": "atticíssat"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "verum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vērūm",
+          "form_accent": "verum"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "sicilicissitat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "sīcīlīcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "sīcīlīcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "sīcīlĭcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 4,
+          "form_scan": "sīcīlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 5,
+          "form_scan": "sīcĭlīcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 6,
+          "form_scan": "sīcĭlīcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 7,
+          "form_scan": "sīcĭlĭcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 8,
+          "form_scan": "sīcĭlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 9,
+          "form_scan": "sĭcīlīcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 10,
+          "form_scan": "sĭcīlīcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 11,
+          "form_scan": "sĭcīlĭcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 12,
+          "form_scan": "sĭcīlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 13,
+          "form_scan": "sĭcĭlīcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 14,
+          "form_scan": "sĭcĭlīcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 15,
+          "form_scan": "sĭcĭlĭcīssītăt",
+          "form_accent": "sicilicíssitat"
+        },
+        {
+          "variant_number": 16,
+          "form_scan": "sĭcĭlĭcīssĭtăt",
+          "form_accent": "sicilicíssitat"
+        }
+      ]
+    }
+  ]
+}

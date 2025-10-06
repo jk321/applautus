@@ -1,0 +1,68 @@
+{
+  "verse": "nunc argumentum vobis demensum dabo,",
+  "collatinus_accentuate": "nunc arguméntum vobis deménsum dabo",
+  "collatinus_scan": "nūnc ārgūmēntūm vōbīs dēmēnsūm dăbō̆",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "nunc",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nūnc",
+          "form_accent": "nunc"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "argumentum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēntūm",
+          "form_accent": "arguméntum"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "vobis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "vōbīs",
+          "form_accent": "vobis"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "demensum",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dēmēnsūm",
+          "form_accent": "deménsum"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "dabo",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dăbō",
+          "form_accent": "dabo"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "dăbŏ",
+          "form_accent": "dabo"
+        }
+      ]
+    }
+  ]
+}

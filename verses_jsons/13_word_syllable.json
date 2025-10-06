@@ -1,0 +1,187 @@
+{
+  "verse": "huic argumento antelogium hoc fuit;",
+  "collatinus_accentuate": "huic arguménto antelógium hoc fuit",
+  "collatinus_scan": "hūic ārgūmēnt[o] āntĕlŏgĭ[um] hōc fŭĭt",
+  "word_count": 5,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "huic",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hūic",
+          "form_accent": "huic",
+          "hyphen_scan": "hūic",
+          "hyphen_accent": "huic",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "huic",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "argument[o]",
+      "syllable_count": 3,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ārgūmēnt[o]",
+          "form_accent": "arguménto",
+          "hyphen_scan": "ār-gūmēn-t[o]",
+          "hyphen_accent": "ar-gumén-to",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "ar",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "gumen",
+              "length": true,
+              "accent": true,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "t[o]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "antelogi[um]",
+      "syllable_count": 5,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āntĕlŏgĭ[um]",
+          "form_accent": "antelógium",
+          "hyphen_scan": "ān-tĕ-lŏ-gĭ-[um]",
+          "hyphen_accent": "an-te-ló-gi-um",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "an",
+              "length": true,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 2,
+              "text": "te",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 3,
+              "text": "lo",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 4,
+              "text": "gi",
+              "length": false,
+              "accent": false,
+              "penultima": true,
+              "ultima": false,
+              "elision": false
+            },
+            {
+              "syllable_number": 5,
+              "text": "[um]",
+              "length": false,
+              "accent": false,
+              "penultima": false,
+              "ultima": true,
+              "elision": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "hoc",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "hōc",
+          "form_accent": "hoc",
+          "hyphen_scan": "hōc",
+          "hyphen_accent": "hoc",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "hoc",
+              "length": true,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "fuit",
+      "syllable_count": 1,
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "fŭĭt",
+          "form_accent": "fuit",
+          "hyphen_scan": "fŭĭt",
+          "hyphen_accent": "fuit",
+          "syllables": [
+            {
+              "syllable_number": 1,
+              "text": "fuit",
+              "length": false,
+              "accent": true,
+              "penultima": false,
+              "ultima": true,
+              "elision": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

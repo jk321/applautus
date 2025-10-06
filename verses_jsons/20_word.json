@@ -1,0 +1,74 @@
+{
+  "verse": "non internosse posset quae mammam dabat,",
+  "collatinus_accentuate": "non internosse posset quæ mammam dabat",
+  "collatinus_scan": "nōn īntērnōsse pōssēt quāe māmmām dăbăt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "non",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "nōn",
+          "form_accent": "non"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "internosse",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "īntērnōsse",
+          "form_accent": "internosse"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "posset",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "pōssēt",
+          "form_accent": "posset"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "quae",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "quāe",
+          "form_accent": "quæ"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "mammam",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "māmmām",
+          "form_accent": "mammam"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "dabat",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "dăbăt",
+          "form_accent": "dabat"
+        }
+      ]
+    }
+  ]
+}

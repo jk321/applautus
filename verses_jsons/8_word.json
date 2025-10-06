@@ -1,0 +1,84 @@
+{
+  "verse": "omnis res gestas esse Athenis autumant,",
+  "collatinus_accentuate": "omnis res gestas esse Athénis áutumant",
+  "collatinus_scan": "ōmnīs rēs gēstās ēss[e] Ăthēnīs (Ā̆thēnīs) āutŭmānt",
+  "word_count": 6,
+  "words": [
+    {
+      "word_number": 1,
+      "text": "omnis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ōmnīs",
+          "form_accent": "omnis"
+        }
+      ]
+    },
+    {
+      "word_number": 2,
+      "text": "res",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "rēs",
+          "form_accent": "res"
+        }
+      ]
+    },
+    {
+      "word_number": 3,
+      "text": "gestas",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "gēstās",
+          "form_accent": "gestas"
+        }
+      ]
+    },
+    {
+      "word_number": 4,
+      "text": "ess[e]",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "ēss[e]",
+          "form_accent": "esse"
+        }
+      ]
+    },
+    {
+      "word_number": 5,
+      "text": "Athenis",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "Ăthēnīs",
+          "form_accent": "Athénis"
+        },
+        {
+          "variant_number": 2,
+          "form_scan": "Āthēnīs",
+          "form_accent": "Athénis"
+        },
+        {
+          "variant_number": 3,
+          "form_scan": "Ăthēnīs",
+          "form_accent": "Athénis"
+        }
+      ]
+    },
+    {
+      "word_number": 6,
+      "text": "autumant",
+      "variants": [
+        {
+          "variant_number": 1,
+          "form_scan": "āutŭmānt",
+          "form_accent": "áutumant"
+        }
+      ]
+    }
+  ]
+}
